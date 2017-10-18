@@ -1,0 +1,19 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 02:12 AM Wednesday, 18. October 2017
+
+  Evaluating 'Extract Material Properties': 36 s
+
+  Total time: 37 s  ( = 0 h, 0 m, 37 s )
+
+Template based postprocessing finished at: 02:12 AM Wednesday, 18. October 2017
+----------------------------------------------------------------------------------------

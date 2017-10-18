@@ -1,0 +1,227 @@
+*** Warning ***
+
+This software is licensed for educational purposes only.
+
+--------------------------------------------------------------------------------
+Build version: 2016.7 Release from 2016-11-11 (change 480100)
+
+Starting adaptive port meshing.
+
+--------------------------------------------------------------------------------
+Mode calculation for port 1:
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  ------------------------------- F-Calc 35.1 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      TEM         377           6.94e-012     377           0.0
+  ----------------------------------------------------------------------------
+
+Pass 1 successfully completed. 
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  ------------------------------- F-Calc 35.1 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      TEM         377           1.49e-011     377           0.0
+  ----------------------------------------------------------------------------
+
+Pass 2 successfully completed. Delta (Line Imp.): 0.000000%
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  ------------------------------- F-Calc 35.1 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      TEM         377           5.06e-011     377           0.0
+  ----------------------------------------------------------------------------
+
+Pass 3 successfully completed. Delta (Line Imp.): 0.000000%
+Mode calculation for port 2:
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  ------------------------------- F-Calc 35.1 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      TEM         377           6.96e-012     377           0.0
+  ----------------------------------------------------------------------------
+
+Pass 1 successfully completed. 
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  ------------------------------- F-Calc 35.1 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      TEM         377           1.49e-011     377           0.0
+  ----------------------------------------------------------------------------
+
+Pass 2 successfully completed. Delta (Line Imp.): 0.000000%
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  ------------------------------- F-Calc 35.1 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      TEM         377           4.39e-009     377           0.0
+  ----------------------------------------------------------------------------
+
+Pass 3 successfully completed. Delta (Line Imp.): 0.000000%
+Adaptive port meshing finished. 
+
+--------------------------------------------------------------------------------
+
+Solver started at: 03:50 PM Saturday, 02. September 2017
+
+  Module:  Time Domain: S-Parameter (Win 64)
+  Version: 2016.7 Release from 2016-11-11 (change 480100)
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+======================================================================
+ Solver cycle: 1
+======================================================================
+
+Stimulation at port 1 (mode 1) 
+
+
+--------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+--------------------------------------------------------------------------------
+Mesh statistics:
+
+   Hexahedral mesh type: FPBA [accuracy enhancement is enabled]
+
+   Parallelization type: domain decomposition
+      Number of parallel working threads: 2
+      Number of calculation domains used: 2
+
+   Used point accuracy enhancement value: 75.00%.
+   PBA fill limit: 99.00% (inverse)
+
+
+--------------------------------------------------------------------------------
+Boundary conditions: 
+
+  YZsymmetry: none
+  XZsymmetry: none
+  XYsymmetry: none
+
+  Xmin: magnetic
+  Xmax: magnetic
+
+  Ymin: electric
+  Ymax: electric
+
+  Zmin: expanded open, 4 Layer, depth 0.570219 mm
+  Zmax: expanded open, 4 Layer, depth 0.570219 mm
+
+  PML-Type: Convolution PML
+
+--------------------------------------------------------------------------------
+Frequency settings: 
+
+  Fmin:         0.1
+  Fmax:         70
+  Nfsteps(lin): 1001
+
+--------------------------------------------------------------------------------
+Waveguide boundaries:
+
+Port: 1
+
+  ------------------------------- F-Calc 35.1 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  1      1      TEM         377           4.67e-013     377           0.0
+  ----------------------------------------------------------------------------
+
+Port: 2
+
+  ------------------------------- F-Calc 35.1 --------------------------------
+  Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+  2      1      TEM         377           6.96e-012     377           0.0
+  ----------------------------------------------------------------------------
+
+Field update statistics:
+
+  Number of components in total: 	460560
+  Number of disp. elements:		120190
+
+Subcycling state:      Automatically deactivated
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Steady state energy criterion met, solver finished successfully.
+
+--------------------------------------------------------------------------------
+Frequency domain results normalized to default signal.
+
+--------------------------------------------------------------------------------
+
+  ----------------------------------------------------------------------------
+                      Peak memory used (kB)         Free physical memory (kB) 
+                                                    At begin     Minimum      
+  ----------------------------------------------------------------------------
+  Matrices calc.      100520                        4542052      4452808      
+  Solver run total    71460                         4572488      4461504      
+  ----------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Solver Statistics:
+
+  Hardware:
+     Computer name:                 	ENGMAN05-12 
+
+     Number of CPU threads:             4
+     Hardware info:                  	Hardware acceleration not activated
+
+  Number of mesh cells:             	73984
+  Excitation duration:              	1.01703827e-001 ns 
+  Calculation time for excitation:  	2      	s
+  Number of calculated pulse widths:	2.39477 
+  Steady state accuracy limit:      	-50	dB 
+  Simulated number of time steps:   	3650   
+  Maximum number of time steps:     	30483  
+  Time step width:
+     without subcycles:             	6.67279695e-005 ns
+     used:                          	6.67279695e-005 ns
+
+  Matrix calculation time:          	41     	s
+  Solver setup time:                	4      	s
+  Solver loop time:                 	4      	s
+  Solver post processing time:      	1      	s
+                                    	------------
+  Total solver time:                	50     	s
+
+--------------------------------------------------------------------------------
+
+  Adaptive port meshing time:       	121    	s  ( = 0 h, 2 m, 1 s )
+  Total solver time (all cycles):   	50     	s
+                                    	------------
+  Total simulation time:            	171    	s  ( = 0 h, 2 m, 51 s )
+
+--------------------------------------------------------------------------------
+Solver finished at: 03:51 PM Saturday, 02. September 2017
+
+
+--------------------------------------------------------------------------------
+Creating parametric 1D results for Run ID 1
+
+--------------------------------------------------------------------------------

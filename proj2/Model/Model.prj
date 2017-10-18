@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+u1146677
+[Mesh Cells]
+18,000
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:proj2.cst?ce2467f2451a4d6311b27fedf300d4f2?60216:numberofparameters=10:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::ar?ath?az?l?opendist?r?s?t?ts?w
+[Comment]

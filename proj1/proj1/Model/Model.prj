@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+banerji
+[Mesh Cells]
+917,280
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:proj1.cst?190d03fce9c542ce847ab58e8e81ec74?24268:numberofparameters=4:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::c?f?l?lambda
+[Comment]
