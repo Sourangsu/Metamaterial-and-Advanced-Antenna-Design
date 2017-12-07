@@ -1,0 +1,30 @@
+Algorithm: Genetic Algorithm
+249 of maximal 249 solver runs done
+
+Number of evaluations: 249
+              (solver: 248, reloaded: 1)
+First goal function value   = 98.715934639
+Best goal function value    = 90.5841925018
+Last goal function value    = 90.5841925018  (reloaded)
+
+Last solver evaluation time = 00:02:33 h
+
+Best parameters so far:
+
+ eps1 = 4.24395
+ eps2 = 4.07923
+ eps3 = 3.87656
+ eps4 = 3.99163
+ eps5 = 3.9635
+ eps6 = 4.30417
+ eps7 = 4.4487
+ eps8 = 3.7334
+ eps9 = 4.16447
+ eps10 = 4.2145
+ eps11 = 4.21499
+ eps12 = 4.34019
+ eps13 = 3.59381
+ eps14 = 4.26979
+ eps15 = 4.09488
+
+(Corresponding run ID: 163)

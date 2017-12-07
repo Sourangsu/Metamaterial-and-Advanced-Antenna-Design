@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile creator="MatrixCalc" version="20151207">
+  <Components>
+    <Component name="component1:conductor">
+      <Shape name="Components\component1:conductor" id="1" visible="1" material="Copper (annealed)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="1 2 3 4 5 6"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:substrate">
+      <Shape name="Components\component1:substrate" id="2" visible="1" material="Rogers RO3003 (lossy)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="7 8 9 10 11 12"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:trace">
+      <Shape name="Components\component1:trace" id="3" visible="1" material="Copper (annealed)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="13 14 15 16 17 18"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+  </Components>
+  <SimulationDomain min="-8.817405700684 -5.282605648041 -5.046666622162" max="8.817405700684 3.764405727386 8.380000114441"/>
+  <Materials>
+    <Material name="air_0" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+    <Material name="Copper (annealed)" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+    <Material name="Rogers RO3003 (lossy)" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+  </Materials>
+  <GeometryFile filename="3d.slm" type="slim" subdomain_id=""/>
+  <MeshType type="HEX"/>
+  <HexMesh>
+    <Dimensions nx="60" ny="28" nz="48"/>
+    <MeshPlanesX values="-8.817405725 -8.374670725744 -7.931935726489 -7.489200727233 -7.046465727977 -6.603730728721 -6.160995729466 -5.777261423832 -5.541507615888 -5.305753807944 -5.07 -4.828186771449 -4.586373542898 -4.344560314348 -4.074353185322 -3.796611911193 -3.518870637064 -3.241129362936 -2.963388088807 -2.685646814678 -2.415439685652 -2.173626457102 -1.931813228551 -1.69 -1.448186771449 -1.206373542898 -0.9645603143475 -0.6943531853218 -0.4166119111931 -0.1388706370644 0.1388706370644 0.4166119111931 0.6943531853218 0.9645603143475 1.206373542898 1.448186771449 1.69 1.931813228551 2.173626457102 2.415439685652 2.685646814678 2.963388088807 3.241129362936 3.518870637064 3.796611911193 4.074353185322 4.344560314348 4.586373542898 4.828186771449 5.07 5.305753807944 5.541507615888 5.777261423832 6.160995729466 6.603730728721 7.046465727977 7.489200727233 7.931935726489 8.374670725744 8.817405725"/>
+    <MeshPlanesY values="-5.282605725 -4.835611093904 -4.388616462808 -3.941621831713 -3.494627200617 -3.047632569521 -2.600637938425 -2.230610053126 -1.993740035417 -1.756870017709 -1.52 -1.302857142857 -1.085714285714 -0.8685714285714 -0.6514285714286 -0.4342857142857 -0.2171428571429 0 0.2369372687558 0.4738745375116 0.7108118062673 1.080890152471 1.528142747893 1.975395343314 2.422647938736 2.869900534157 3.317153129579 3.764405725"/>
+    <MeshPlanesZ values="-5.046666666667 -4.760992907801 -4.475319148936 -4.189645390071 -3.903971631206 -3.61829787234 -3.332624113475 -3.04695035461 -2.761276595745 -2.475602836879 -2.189929078014 -1.904255319149 -1.618581560284 -1.332907801419 -1.047234042553 -0.761560283688 -0.4758865248228 -0.1902127659575 0.09546099290772 0.381134751773 0.6668085106382 0.9524822695035 1.238156028369 1.523829787234 1.809503546099 2.095177304964 2.38085106383 2.666524822695 2.95219858156 3.237872340425 3.523546099291 3.809219858156 4.094893617021 4.380567375886 4.666241134752 4.951914893617 5.237588652482 5.523262411347 5.808936170213 6.094609929078 6.380283687943 6.665957446808 6.951631205674 7.237304964539 7.522978723404 7.808652482269 8.094326241135 8.38"/>
+  </HexMesh>
+</MetaGeometryFile>

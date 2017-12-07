@@ -1,0 +1,7141 @@
+Optimizer Settings:
+
+Optimizer type: Genetic Algorithm
+		Population size: 16
+		Maximal number of generations: 30
+		External random seed: 1
+		Interpolation of primary data disabled.
+		Strategy for starting values: Latin Hypercube Sampling
+		Mutation rate: 60%%
+		Goal function level: 0
+
+
+---------------------------------------------------------------------------------------
+
+Parameters used for optimization:
+---------------------------------------------------------------------------------------
+| name                    |          min |          max |       anchor |
+---------------------------------------------------------------------------------------
+| eps1                    |          3.4 |          4.6 |            4 |
+| eps2                    |          3.4 |          4.6 |            4 |
+| eps3                    |          3.4 |          4.6 |            4 |
+| eps4                    |          3.4 |          4.6 |            4 |
+| eps5                    |          3.4 |          4.6 |            4 |
+| eps6                    |          3.4 |          4.6 |            4 |
+| eps7                    |          3.4 |          4.6 |            4 |
+| eps8                    |          3.4 |          4.6 |            4 |
+| eps9                    |          3.4 |          4.6 |            4 |
+| eps10                   |          3.4 |          4.6 |            4 |
+| eps11                   |          3.4 |          4.6 |            4 |
+| eps12                   |          3.4 |          4.6 |            4 |
+| eps13                   |          3.4 |          4.6 |            4 |
+| eps14                   |          3.4 |          4.6 |            4 |
+| eps15                   |          3.4 |          4.6 |            4 |
+---------------------------------------------------------------------------------------
+
+Goal functionals used for optimization:
+
+TBPP 0D: Directivity,Theta=th,Phi=ph: operate by ">" with target 100.0, weighted: 1.0
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.1875 
+	eps2 = 3.5875 
+	eps3 = 4.5625 
+	eps4 = 3.6625 
+	eps5 = 3.8125 
+	eps6 = 3.5125 
+	eps7 = 3.7375 
+	eps8 = 3.4375 
+	eps9 = 4.4125 
+	eps10 = 3.4375 
+	eps11 = 3.5125 
+	eps12 = 3.6625 
+	eps13 = 4.0375 
+	eps14 = 3.5875 
+	eps15 = 3.6625 
+
+(Corresponding to run ID: 22)
+
+
+Created complete backup of the project. (15 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 98.7159 (Solver)
+	Last goal function value   = 98.7159 (Solver)
+	Solver time = 00:02:42 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.6625 
+	eps2 = 4.4875 
+	eps3 = 3.5125 
+	eps4 = 4.5625 
+	eps5 = 4.1125 
+	eps6 = 3.4375 
+	eps7 = 4.0375 
+	eps8 = 4.4125 
+	eps9 = 3.8125 
+	eps10 = 3.5125 
+	eps11 = 3.5875 
+	eps12 = 3.4375 
+	eps13 = 4.3375 
+	eps14 = 3.4375 
+	eps15 = 3.8125 
+
+(Corresponding to run ID: 23)
+
+
+Created complete backup of the project. (9.187 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 96.86 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:16 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.2625 
+	eps2 = 3.6625 
+	eps3 = 4.1875 
+	eps4 = 4.0375 
+	eps5 = 4.0375 
+	eps6 = 3.8125 
+	eps7 = 3.5125 
+	eps8 = 3.8125 
+	eps9 = 4.2625 
+	eps10 = 3.5875 
+	eps11 = 3.7375 
+	eps12 = 3.7375 
+	eps13 = 3.7375 
+	eps14 = 3.5125 
+	eps15 = 4.4125 
+
+(Corresponding to run ID: 24)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 98.4166 (Solver)
+	Solver time = 00:07:52 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.1125 
+	eps2 = 3.8125 
+	eps3 = 3.9625 
+	eps4 = 3.8125 
+	eps5 = 3.6625 
+	eps6 = 3.6625 
+	eps7 = 3.4375 
+	eps8 = 4.4875 
+	eps9 = 3.9625 
+	eps10 = 3.8125 
+	eps11 = 3.8125 
+	eps12 = 4.1875 
+	eps13 = 4.1875 
+	eps14 = 3.7375 
+	eps15 = 3.9625 
+
+(Corresponding to run ID: 25)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 97.4038 (Solver)
+	Solver time = 00:11:38 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.5125 
+	eps2 = 3.4375 
+	eps3 = 3.6625 
+	eps4 = 3.7375 
+	eps5 = 4.4125 
+	eps6 = 4.1125 
+	eps7 = 3.8125 
+	eps8 = 3.9625 
+	eps9 = 4.4875 
+	eps10 = 4.0375 
+	eps11 = 3.4375 
+	eps12 = 3.5125 
+	eps13 = 4.4125 
+	eps14 = 3.6625 
+	eps15 = 3.4375 
+
+(Corresponding to run ID: 26)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 99.4717 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.5625 
+	eps2 = 4.2625 
+	eps3 = 4.2625 
+	eps4 = 3.5875 
+	eps5 = 4.2625 
+	eps6 = 3.7375 
+	eps7 = 4.1125 
+	eps8 = 3.6625 
+	eps9 = 4.5625 
+	eps10 = 4.5625 
+	eps11 = 3.9625 
+	eps12 = 4.4125 
+	eps13 = 4.1125 
+	eps14 = 4.1875 
+	eps15 = 3.8875 
+
+(Corresponding to run ID: 27)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 97.7839 (Solver)
+	Solver time = 00:02:13 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.4125 
+	eps2 = 3.8875 
+	eps3 = 3.5875 
+	eps4 = 4.1125 
+	eps5 = 4.4875 
+	eps6 = 4.0375 
+	eps7 = 4.3375 
+	eps8 = 3.8875 
+	eps9 = 4.3375 
+	eps10 = 3.7375 
+	eps11 = 4.1125 
+	eps12 = 4.1125 
+	eps13 = 3.4375 
+	eps14 = 3.8875 
+	eps15 = 4.2625 
+
+(Corresponding to run ID: 28)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 97.3983 (Solver)
+	Solver time = 00:02:28 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.9625 
+	eps2 = 4.0375 
+	eps3 = 3.8875 
+	eps4 = 3.5125 
+	eps5 = 4.5625 
+	eps6 = 4.4125 
+	eps7 = 4.4125 
+	eps8 = 3.7375 
+	eps9 = 4.1125 
+	eps10 = 4.3375 
+	eps11 = 3.6625 
+	eps12 = 4.0375 
+	eps13 = 4.4875 
+	eps14 = 3.9625 
+	eps15 = 4.4875 
+
+(Corresponding to run ID: 29)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 98.9944 (Solver)
+	Solver time = 00:02:10 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.0375 
+	eps2 = 3.9625 
+	eps3 = 4.4875 
+	eps4 = 4.4875 
+	eps5 = 3.4375 
+	eps6 = 3.5875 
+	eps7 = 3.5875 
+	eps8 = 4.0375 
+	eps9 = 3.8875 
+	eps10 = 3.6625 
+	eps11 = 4.3375 
+	eps12 = 3.9625 
+	eps13 = 3.5125 
+	eps14 = 4.0375 
+	eps15 = 3.5125 
+
+(Corresponding to run ID: 30)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 98.71 (Solver)
+	Solver time = 00:02:30 h
+	Parameter update time   = 00:00:16 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.5875 
+	eps2 = 4.1125 
+	eps3 = 4.4125 
+	eps4 = 3.8875 
+	eps5 = 3.5125 
+	eps6 = 3.9625 
+	eps7 = 3.6625 
+	eps8 = 4.1125 
+	eps9 = 3.6625 
+	eps10 = 4.2625 
+	eps11 = 3.8875 
+	eps12 = 3.8875 
+	eps13 = 4.5625 
+	eps14 = 4.1125 
+	eps15 = 3.7375 
+
+(Corresponding to run ID: 31)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 98.0692 (Solver)
+	Solver time = 00:02:32 h
+	Parameter update time   = 00:00:23 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4375 
+	eps2 = 3.7375 
+	eps3 = 3.7375 
+	eps4 = 4.4125 
+	eps5 = 3.7375 
+	eps6 = 4.2625 
+	eps7 = 3.8875 
+	eps8 = 4.3375 
+	eps9 = 3.4375 
+	eps10 = 3.8875 
+	eps11 = 4.0375 
+	eps12 = 3.5875 
+	eps13 = 3.8875 
+	eps14 = 4.3375 
+	eps15 = 4.1125 
+
+(Corresponding to run ID: 32)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 98.8066 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.4875 
+	eps2 = 4.5625 
+	eps3 = 4.3375 
+	eps4 = 4.2625 
+	eps5 = 3.5875 
+	eps6 = 3.8875 
+	eps7 = 4.1875 
+	eps8 = 4.2625 
+	eps9 = 3.5125 
+	eps10 = 3.9625 
+	eps11 = 4.5625 
+	eps12 = 4.4875 
+	eps13 = 3.5875 
+	eps14 = 3.8125 
+	eps15 = 4.5625 
+
+(Corresponding to run ID: 33)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 96.86 (Solver)
+	Last goal function value   = 97.1873 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.8875 
+	eps2 = 4.1875 
+	eps3 = 4.0375 
+	eps4 = 4.1875 
+	eps5 = 4.3375 
+	eps6 = 4.3375 
+	eps7 = 4.5625 
+	eps8 = 3.5125 
+	eps9 = 4.0375 
+	eps10 = 4.1875 
+	eps11 = 4.1875 
+	eps12 = 3.8125 
+	eps13 = 3.8125 
+	eps14 = 4.2625 
+	eps15 = 4.0375 
+
+(Corresponding to run ID: 34)
+
+
+Created complete backup of the project. (13 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 95.6855 (Solver)
+	Last goal function value   = 95.6855 (Solver)
+	Solver time = 00:02:02 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.7375 
+	eps2 = 4.3375 
+	eps3 = 3.8125 
+	eps4 = 3.9625 
+	eps5 = 3.9625 
+	eps6 = 4.1875 
+	eps7 = 4.4875 
+	eps8 = 4.1875 
+	eps9 = 3.7375 
+	eps10 = 4.4125 
+	eps11 = 4.2625 
+	eps12 = 4.2625 
+	eps13 = 4.2625 
+	eps14 = 4.4875 
+	eps15 = 3.5875 
+
+(Corresponding to run ID: 35)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 95.6855 (Solver)
+	Last goal function value   = 97.079 (Solver)
+	Solver time = 00:02:09 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.3375 
+	eps2 = 3.5125 
+	eps3 = 4.1125 
+	eps4 = 3.4375 
+	eps5 = 3.8875 
+	eps6 = 4.5625 
+	eps7 = 3.9625 
+	eps8 = 3.5875 
+	eps9 = 4.1875 
+	eps10 = 4.4875 
+	eps11 = 4.4125 
+	eps12 = 4.5625 
+	eps13 = 3.6625 
+	eps14 = 4.5625 
+	eps15 = 4.1875 
+
+(Corresponding to run ID: 36)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 95.6855 (Solver)
+	Last goal function value   = 96.4702 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.8125 
+	eps2 = 4.4125 
+	eps3 = 3.4375 
+	eps4 = 4.3375 
+	eps5 = 4.1875 
+	eps6 = 4.4875 
+	eps7 = 4.2625 
+	eps8 = 4.5625 
+	eps9 = 3.5875 
+	eps10 = 4.1125 
+	eps11 = 4.4875 
+	eps12 = 4.3375 
+	eps13 = 3.9625 
+	eps14 = 4.4125 
+	eps15 = 4.3375 
+
+(Corresponding to run ID: 37)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 95.6855 (Solver)
+	Last goal function value   = 97.4777 (Solver)
+	Solver time = 00:02:40 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.81697 
+	eps2 = 4.32864 
+	eps3 = 3.69012 
+	eps4 = 4.25423 
+	eps5 = 4.23706 
+	eps6 = 4.34415 
+	eps7 = 4.4887 
+	eps8 = 3.789 
+	eps9 = 3.91678 
+	eps10 = 4.17372 
+	eps11 = 4.38142 
+	eps12 = 4.28443 
+	eps13 = 3.89411 
+	eps14 = 4.27323 
+	eps15 = 4.25192 
+
+(Corresponding to run ID: 38)
+
+
+Created complete backup of the project. (25 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 94.2802 (Solver)
+	Solver time = 00:02:35 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.99281 
+	eps2 = 3.91517 
+	eps3 = 4.05047 
+	eps4 = 3.50634 
+	eps5 = 3.90496 
+	eps6 = 4.48483 
+	eps7 = 4.15048 
+	eps8 = 3.53779 
+	eps9 = 4.05426 
+	eps10 = 4.35499 
+	eps11 = 4.22165 
+	eps12 = 4.14888 
+	eps13 = 3.76893 
+	eps14 = 4.35139 
+	eps15 = 4.07282 
+
+(Corresponding to run ID: 39)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 96.2668 (Solver)
+	Solver time = 00:02:46 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24512 
+	eps2 = 3.76879 
+	eps3 = 3.96999 
+	eps4 = 3.61693 
+	eps5 = 3.7889 
+	eps6 = 3.99099 
+	eps7 = 3.83984 
+	eps8 = 3.59144 
+	eps9 = 4.16745 
+	eps10 = 4.09889 
+	eps11 = 3.86825 
+	eps12 = 4.55245 
+	eps13 = 3.71368 
+	eps14 = 4.11062 
+	eps15 = 4.06622 
+
+(Corresponding to run ID: 40)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 97.8155 (Solver)
+	Solver time = 00:02:13 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24512 
+	eps2 = 3.61746 
+	eps3 = 3.96999 
+	eps4 = 4.25124 
+	eps5 = 3.7889 
+	eps6 = 3.99099 
+	eps7 = 4.37293 
+	eps8 = 3.44218 
+	eps9 = 4.04186 
+	eps10 = 4.09889 
+	eps11 = 3.86825 
+	eps12 = 4.55245 
+	eps13 = 3.71368 
+	eps14 = 4.11062 
+	eps15 = 4.06622 
+
+(Corresponding to run ID: 41)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 96.5795 (Solver)
+	Solver time = 00:02:29 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.90514 
+	eps2 = 4.03065 
+	eps3 = 3.54023 
+	eps4 = 4.41618 
+	eps5 = 4.35386 
+	eps6 = 3.56807 
+	eps7 = 4.3175 
+	eps8 = 4.25248 
+	eps9 = 3.87002 
+	eps10 = 3.66349 
+	eps11 = 3.68488 
+	eps12 = 3.77903 
+	eps13 = 4.02668 
+	eps14 = 3.65165 
+	eps15 = 4.03717 
+
+(Corresponding to run ID: 42)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 99.5468 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.90514 
+	eps2 = 4.03065 
+	eps3 = 3.79129 
+	eps4 = 4.02675 
+	eps5 = 4.35386 
+	eps6 = 3.56807 
+	eps7 = 4.39568 
+	eps8 = 3.82663 
+	eps9 = 3.87002 
+	eps10 = 3.74802 
+	eps11 = 3.68488 
+	eps12 = 3.96692 
+	eps13 = 4.02668 
+	eps14 = 3.65165 
+	eps15 = 4.03717 
+
+(Corresponding to run ID: 43)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 99.7203 (Solver)
+	Solver time = 00:02:09 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.173 
+	eps2 = 4.49996 
+	eps3 = 4.1639 
+	eps4 = 4.11027 
+	eps5 = 3.81406 
+	eps6 = 4.17108 
+	eps7 = 4.28489 
+	eps8 = 4.25076 
+	eps9 = 3.73328 
+	eps10 = 4.24981 
+	eps11 = 4.38603 
+	eps12 = 4.26557 
+	eps13 = 3.67599 
+	eps14 = 4.1241 
+	eps15 = 4.05455 
+
+(Corresponding to run ID: 44)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 95.5675 (Solver)
+	Solver time = 00:02:28 h
+	Parameter update time   = 00:00:08 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.91989 
+	eps2 = 4.07696 
+	eps3 = 3.44537 
+	eps4 = 3.87103 
+	eps5 = 4.13687 
+	eps6 = 3.67877 
+	eps7 = 3.61551 
+	eps8 = 4.5412 
+	eps9 = 3.74763 
+	eps10 = 3.97405 
+	eps11 = 4.35388 
+	eps12 = 4.20162 
+	eps13 = 4.10292 
+	eps14 = 3.77035 
+	eps15 = 4.09739 
+
+(Corresponding to run ID: 45)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 96.8204 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.70432 
+	eps2 = 4.36197 
+	eps3 = 3.53556 
+	eps4 = 4.26931 
+	eps5 = 4.17138 
+	eps6 = 4.08156 
+	eps7 = 4.21375 
+	eps8 = 4.28765 
+	eps9 = 3.85474 
+	eps10 = 4.04579 
+	eps11 = 3.88613 
+	eps12 = 3.97693 
+	eps13 = 4.20795 
+	eps14 = 4.13275 
+	eps15 = 4.05545 
+
+(Corresponding to run ID: 46)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 98.291 (Solver)
+	Solver time = 00:02:24 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.70432 
+	eps2 = 3.53926 
+	eps3 = 3.80432 
+	eps4 = 3.67392 
+	eps5 = 4.17138 
+	eps6 = 3.65238 
+	eps7 = 4.21375 
+	eps8 = 4.30251 
+	eps9 = 3.85474 
+	eps10 = 4.04579 
+	eps11 = 3.88613 
+	eps12 = 3.97693 
+	eps13 = 4.20795 
+	eps14 = 3.4512 
+	eps15 = 3.67166 
+
+(Corresponding to run ID: 47)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 98.715 (Solver)
+	Solver time = 00:02:10 h
+	Parameter update time   = 00:00:12 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.16119 
+	eps2 = 3.53926 
+	eps3 = 4.19949 
+	eps4 = 4.0099 
+	eps5 = 3.78556 
+	eps6 = 3.65238 
+	eps7 = 4.21375 
+	eps8 = 3.86543 
+	eps9 = 4.47343 
+	eps10 = 4.13581 
+	eps11 = 4.21296 
+	eps12 = 3.97693 
+	eps13 = 4.20795 
+	eps14 = 3.4512 
+	eps15 = 3.67166 
+
+(Corresponding to run ID: 48)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 99.9446 (Solver)
+	Solver time = 00:02:03 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.16119 
+	eps2 = 3.53926 
+	eps3 = 3.77711 
+	eps4 = 3.50982 
+	eps5 = 3.63191 
+	eps6 = 3.77317 
+	eps7 = 4.21375 
+	eps8 = 3.55327 
+	eps9 = 4.47343 
+	eps10 = 4.13581 
+	eps11 = 3.66726 
+	eps12 = 3.97693 
+	eps13 = 4.08009 
+	eps14 = 4.57111 
+	eps15 = 3.98581 
+
+(Corresponding to run ID: 49)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 99.9932 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:12 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.16119 
+	eps2 = 3.74016 
+	eps3 = 3.77711 
+	eps4 = 4.17963 
+	eps5 = 3.63191 
+	eps6 = 3.77317 
+	eps7 = 3.5061 
+	eps8 = 3.55327 
+	eps9 = 4.47343 
+	eps10 = 4.13581 
+	eps11 = 4.53107 
+	eps12 = 4.01949 
+	eps13 = 4.08009 
+	eps14 = 3.79121 
+	eps15 = 4.56443 
+
+(Corresponding to run ID: 50)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 98.0094 (Solver)
+	Solver time = 00:02:02 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.25678 
+	eps2 = 3.60071 
+	eps3 = 3.97339 
+	eps4 = 3.91141 
+	eps5 = 3.8719 
+	eps6 = 4.27637 
+	eps7 = 4.29056 
+	eps8 = 3.54136 
+	eps9 = 4.10561 
+	eps10 = 4.38785 
+	eps11 = 3.99924 
+	eps12 = 4.55291 
+	eps13 = 3.70847 
+	eps14 = 4.36638 
+	eps15 = 4.0855 
+
+(Corresponding to run ID: 51)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 94.2876 (Solver)
+	Solver time = 00:02:17 h
+	Parameter update time   = 00:00:12 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.32236 
+	eps2 = 3.86158 
+	eps3 = 4.09595 
+	eps4 = 3.45168 
+	eps5 = 3.90271 
+	eps6 = 4.51503 
+	eps7 = 3.99457 
+	eps8 = 3.56653 
+	eps9 = 4.17535 
+	eps10 = 4.42783 
+	eps11 = 4.28165 
+	eps12 = 4.5443 
+	eps13 = 3.74672 
+	eps14 = 4.56105 
+	eps15 = 4.15273 
+
+(Corresponding to run ID: 52)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 96.8823 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.32236 
+	eps2 = 3.86158 
+	eps3 = 3.66737 
+	eps4 = 3.45168 
+	eps5 = 4.47207 
+	eps6 = 3.41332 
+	eps7 = 4.31617 
+	eps8 = 4.32767 
+	eps9 = 4.17535 
+	eps10 = 3.86212 
+	eps11 = 3.86111 
+	eps12 = 4.5443 
+	eps13 = 3.56824 
+	eps14 = 3.65634 
+	eps15 = 4.15273 
+
+(Corresponding to run ID: 53)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 99.2503 (Solver)
+	Solver time = 00:02:21 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:02:07 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 4.13034 
+	eps3 = 3.4 
+	eps4 = 3.84282 
+	eps5 = 4.22623 
+	eps6 = 3.4 
+	eps7 = 4.04586 
+	eps8 = 3.43158 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.8666 
+	eps13 = 3.97116 
+	eps14 = 4.31907 
+	eps15 = 4.07529 
+
+(Corresponding to run ID: 55)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 99.3698 (Solver)
+	Solver time = 00:02:09 h
+	Parameter update time   = 00:00:08 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.9552 
+	eps2 = 4.29975 
+	eps3 = 3.73395 
+	eps4 = 3.96451 
+	eps5 = 3.94777 
+	eps6 = 3.59649 
+	eps7 = 4.24789 
+	eps8 = 4.20629 
+	eps9 = 3.87503 
+	eps10 = 3.63597 
+	eps11 = 3.65463 
+	eps12 = 3.64924 
+	eps13 = 3.75977 
+	eps14 = 4.08806 
+	eps15 = 4.04717 
+
+(Corresponding to run ID: 56)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 96.0813 (Solver)
+	Solver time = 00:01:54 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.55791 
+	eps2 = 4.29975 
+	eps3 = 3.73395 
+	eps4 = 3.96451 
+	eps5 = 3.94777 
+	eps6 = 4.36932 
+	eps7 = 4.48604 
+	eps8 = 4.55934 
+	eps9 = 3.87503 
+	eps10 = 3.63597 
+	eps11 = 3.65463 
+	eps12 = 3.64924 
+	eps13 = 3.75977 
+	eps14 = 4.08806 
+	eps15 = 4.05597 
+
+(Corresponding to run ID: 57)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 94.9507 (Solver)
+	Solver time = 00:02:12 h
+	Parameter update time   = 00:00:08 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.9988 
+	eps2 = 4.12113 
+	eps3 = 4.12083 
+	eps4 = 3.7649 
+	eps5 = 3.83951 
+	eps6 = 4.22336 
+	eps7 = 4.22813 
+	eps8 = 3.60322 
+	eps9 = 3.96705 
+	eps10 = 4.33454 
+	eps11 = 4.25759 
+	eps12 = 4.18233 
+	eps13 = 3.76218 
+	eps14 = 4.22426 
+	eps15 = 4.05561 
+
+(Corresponding to run ID: 58)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 95.4402 (Solver)
+	Solver time = 00:02:32 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.9988 
+	eps2 = 4.12113 
+	eps3 = 4.20007 
+	eps4 = 3.7649 
+	eps5 = 3.83951 
+	eps6 = 4.22336 
+	eps7 = 4.09125 
+	eps8 = 3.45898 
+	eps9 = 3.96705 
+	eps10 = 3.47291 
+	eps11 = 4.25759 
+	eps12 = 4.18233 
+	eps13 = 3.76218 
+	eps14 = 4.29026 
+	eps15 = 4.11843 
+
+(Corresponding to run ID: 59)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 96.133 (Solver)
+	Solver time = 00:02:32 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.9988 
+	eps2 = 3.91152 
+	eps3 = 4.32281 
+	eps4 = 4.47189 
+	eps5 = 3.83951 
+	eps6 = 4.3942 
+	eps7 = 4.09125 
+	eps8 = 3.45898 
+	eps9 = 3.76378 
+	eps10 = 3.47291 
+	eps11 = 4.25759 
+	eps12 = 4.18233 
+	eps13 = 3.76218 
+	eps14 = 4.29026 
+	eps15 = 3.68302 
+
+(Corresponding to run ID: 60)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 95.7066 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.09291 
+	eps2 = 4.38423 
+	eps3 = 3.87594 
+	eps4 = 4.39508 
+	eps5 = 4.07901 
+	eps6 = 3.47272 
+	eps7 = 4.34159 
+	eps8 = 3.64265 
+	eps9 = 3.99395 
+	eps10 = 4.07474 
+	eps11 = 3.67299 
+	eps12 = 4.34775 
+	eps13 = 4.1614 
+	eps14 = 3.97338 
+	eps15 = 3.92292 
+
+(Corresponding to run ID: 61)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 95.607 (Solver)
+	Solver time = 00:02:22 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 94.2802 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:02:00 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.86381 
+	eps2 = 4.30559 
+	eps3 = 3.77143 
+	eps4 = 4.12962 
+	eps5 = 3.96109 
+	eps6 = 4.30933 
+	eps7 = 4.40052 
+	eps8 = 3.68772 
+	eps9 = 4.06129 
+	eps10 = 4.28165 
+	eps11 = 4.26667 
+	eps12 = 4.28808 
+	eps13 = 3.83284 
+	eps14 = 4.28766 
+	eps15 = 4.09542 
+
+(Corresponding to run ID: 62)
+
+
+Created complete backup of the project. (8.906 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.8055 (Solver)
+	Last goal function value   = 92.8055 (Solver)
+	Solver time = 00:02:21 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.88884 
+	eps2 = 3.9897 
+	eps3 = 3.77143 
+	eps4 = 4.12962 
+	eps5 = 3.96109 
+	eps6 = 4.44931 
+	eps7 = 4.362 
+	eps8 = 3.68772 
+	eps9 = 4.06129 
+	eps10 = 4.28165 
+	eps11 = 4.1909 
+	eps12 = 4.01243 
+	eps13 = 4.09362 
+	eps14 = 4.04489 
+	eps15 = 3.7393 
+
+(Corresponding to run ID: 63)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.8055 (Solver)
+	Last goal function value   = 99.6189 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.72613 
+	eps2 = 3.86108 
+	eps3 = 3.77143 
+	eps4 = 4.12962 
+	eps5 = 3.96109 
+	eps6 = 4.44931 
+	eps7 = 4.59303 
+	eps8 = 3.75749 
+	eps9 = 4.06129 
+	eps10 = 4.56543 
+	eps11 = 4.1909 
+	eps12 = 4.01243 
+	eps13 = 3.98999 
+	eps14 = 4.04489 
+	eps15 = 3.7393 
+
+(Corresponding to run ID: 64)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.8055 (Solver)
+	Last goal function value   = 97.1906 (Solver)
+	Solver time = 00:02:12 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.53566 
+	eps2 = 4.14967 
+	eps3 = 3.87551 
+	eps4 = 3.80085 
+	eps5 = 3.9097 
+	eps6 = 4.35322 
+	eps7 = 4.44616 
+	eps8 = 3.90675 
+	eps9 = 3.96569 
+	eps10 = 3.92291 
+	eps11 = 4.23531 
+	eps12 = 4.13253 
+	eps13 = 3.76144 
+	eps14 = 4.20543 
+	eps15 = 4.05595 
+
+(Corresponding to run ID: 65)
+
+
+Created complete backup of the project. (19 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 92.4563 (Solver)
+	Solver time = 00:02:24 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.53566 
+	eps2 = 4.14967 
+	eps3 = 3.54515 
+	eps4 = 3.8778 
+	eps5 = 3.97917 
+	eps6 = 4.35322 
+	eps7 = 3.57574 
+	eps8 = 3.90675 
+	eps9 = 3.96569 
+	eps10 = 4.51173 
+	eps11 = 3.88815 
+	eps12 = 4.13253 
+	eps13 = 3.4579 
+	eps14 = 4.20543 
+	eps15 = 4.05595 
+
+(Corresponding to run ID: 66)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 96.5694 (Solver)
+	Solver time = 00:02:18 h
+	Parameter update time   = 00:00:24 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.53566 
+	eps2 = 4.02316 
+	eps3 = 3.54515 
+	eps4 = 3.8778 
+	eps5 = 4.44124 
+	eps6 = 3.783 
+	eps7 = 4.19084 
+	eps8 = 3.90675 
+	eps9 = 3.61928 
+	eps10 = 4.51173 
+	eps11 = 4.47789 
+	eps12 = 3.88239 
+	eps13 = 3.95568 
+	eps14 = 3.57632 
+	eps15 = 4.39649 
+
+(Corresponding to run ID: 67)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 97.8678 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.05102 
+	eps2 = 4.33094 
+	eps3 = 3.94392 
+	eps4 = 3.96916 
+	eps5 = 3.86154 
+	eps6 = 3.82365 
+	eps7 = 4.2523 
+	eps8 = 4.24107 
+	eps9 = 3.79886 
+	eps10 = 3.73341 
+	eps11 = 4.22863 
+	eps12 = 4.03333 
+	eps13 = 3.7469 
+	eps14 = 4.08823 
+	eps15 = 4.05016 
+
+(Corresponding to run ID: 68)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 97.7057 (Solver)
+	Solver time = 00:02:17 h
+	Parameter update time   = 00:00:16 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:02:11 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.99599 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 4.37815 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.57289 
+	eps8 = 3.4 
+	eps9 = 3.44488 
+	eps10 = 3.50983 
+	eps11 = 3.4 
+	eps12 = 4.56636 
+	eps13 = 4.06256 
+	eps14 = 3.92921 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 69)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 99.6721 (Solver)
+	Solver time = 00:02:34 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.99599 
+	eps2 = 4.04833 
+	eps3 = 3.98039 
+	eps4 = 3.56748 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.73658 
+	eps8 = 3.4 
+	eps9 = 3.44488 
+	eps10 = 3.50983 
+	eps11 = 4.3969 
+	eps12 = 3.41602 
+	eps13 = 4.06256 
+	eps14 = 3.92921 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 70)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 99.0758 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.23628 
+	eps2 = 3.9127 
+	eps3 = 3.87116 
+	eps4 = 3.98768 
+	eps5 = 3.9774 
+	eps6 = 4.29116 
+	eps7 = 4.45623 
+	eps8 = 3.6396 
+	eps9 = 3.98123 
+	eps10 = 4.22642 
+	eps11 = 4.00934 
+	eps12 = 4.3679 
+	eps13 = 3.8556 
+	eps14 = 4.29895 
+	eps15 = 4.13993 
+
+(Corresponding to run ID: 71)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 93.3895 (Solver)
+	Solver time = 00:02:14 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.92664 
+	eps2 = 4.33438 
+	eps3 = 3.70734 
+	eps4 = 4.34096 
+	eps5 = 4.22385 
+	eps6 = 3.98755 
+	eps7 = 4.40487 
+	eps8 = 3.65188 
+	eps9 = 3.92146 
+	eps10 = 4.08278 
+	eps11 = 4.23685 
+	eps12 = 4.32325 
+	eps13 = 3.90573 
+	eps14 = 4.11681 
+	eps15 = 4.03369 
+
+(Corresponding to run ID: 72)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 95.9296 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.34713 
+	eps2 = 3.84851 
+	eps3 = 3.57277 
+	eps4 = 4.34096 
+	eps5 = 4.22385 
+	eps6 = 3.98755 
+	eps7 = 4.40487 
+	eps8 = 3.85158 
+	eps9 = 3.92146 
+	eps10 = 4.08278 
+	eps11 = 4.23685 
+	eps12 = 4.32325 
+	eps13 = 3.90573 
+	eps14 = 4.12107 
+	eps15 = 3.7322 
+
+(Corresponding to run ID: 73)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 96.0414 (Solver)
+	Solver time = 00:02:07 h
+	Parameter update time   = 00:00:08 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.43751 
+	eps2 = 3.60355 
+	eps3 = 3.91738 
+	eps4 = 3.92172 
+	eps5 = 3.94436 
+	eps6 = 4.33704 
+	eps7 = 4.33959 
+	eps8 = 4.28416 
+	eps9 = 4.06928 
+	eps10 = 4.30261 
+	eps11 = 3.73586 
+	eps12 = 4.49616 
+	eps13 = 3.74081 
+	eps14 = 4.36094 
+	eps15 = 4.06262 
+
+(Corresponding to run ID: 74)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 95.7735 (Solver)
+	Solver time = 00:02:14 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.072 
+	eps2 = 3.9521 
+	eps3 = 4.23054 
+	eps4 = 4.21336 
+	eps5 = 3.81825 
+	eps6 = 4.36779 
+	eps7 = 4.15329 
+	eps8 = 3.5522 
+	eps9 = 3.76202 
+	eps10 = 3.52771 
+	eps11 = 4.30553 
+	eps12 = 4.20902 
+	eps13 = 3.75913 
+	eps14 = 4.25795 
+	eps15 = 3.81412 
+
+(Corresponding to run ID: 75)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 95.5665 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:16 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 92.4563 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:02:03 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.2006 
+	eps2 = 4.25428 
+	eps3 = 3.86241 
+	eps4 = 3.82464 
+	eps5 = 3.93379 
+	eps6 = 4.31842 
+	eps7 = 4.4389 
+	eps8 = 3.74686 
+	eps9 = 4.02074 
+	eps10 = 4.1636 
+	eps11 = 4.2598 
+	eps12 = 4.21909 
+	eps13 = 3.79987 
+	eps14 = 4.21846 
+	eps15 = 4.09529 
+
+(Corresponding to run ID: 76)
+
+
+Created complete backup of the project. (13 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.495 (Solver)
+	Last goal function value   = 91.495 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.9847 
+	eps2 = 4.35169 
+	eps3 = 3.83501 
+	eps4 = 4.22899 
+	eps5 = 4.07645 
+	eps6 = 4.29709 
+	eps7 = 4.3635 
+	eps8 = 3.66456 
+	eps9 = 4.0608 
+	eps10 = 4.18937 
+	eps11 = 4.06361 
+	eps12 = 4.30559 
+	eps13 = 4.08768 
+	eps14 = 4.15144 
+	eps15 = 3.97243 
+
+(Corresponding to run ID: 77)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.495 (Solver)
+	Last goal function value   = 96.4566 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.00469 
+	eps2 = 4.22881 
+	eps3 = 3.80671 
+	eps4 = 4.04891 
+	eps5 = 4.12481 
+	eps6 = 4.34037 
+	eps7 = 4.48717 
+	eps8 = 3.70592 
+	eps9 = 3.97708 
+	eps10 = 4.20372 
+	eps11 = 4.17698 
+	eps12 = 4.33372 
+	eps13 = 3.87233 
+	eps14 = 4.2892 
+	eps15 = 4.16101 
+
+(Corresponding to run ID: 78)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.495 (Solver)
+	Last goal function value   = 92.7171 (Solver)
+	Solver time = 00:02:05 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.00469 
+	eps2 = 4.14784 
+	eps3 = 3.581 
+	eps4 = 4.04891 
+	eps5 = 4.58166 
+	eps6 = 4.34037 
+	eps7 = 4.1337 
+	eps8 = 4.09486 
+	eps9 = 3.97708 
+	eps10 = 4.20372 
+	eps11 = 3.58135 
+	eps12 = 3.77668 
+	eps13 = 4.46326 
+	eps14 = 3.58809 
+	eps15 = 4.44109 
+
+(Corresponding to run ID: 79)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.495 (Solver)
+	Last goal function value   = 98.9663 (Solver)
+	Solver time = 00:02:00 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.33889 
+	eps2 = 3.94631 
+	eps3 = 3.78579 
+	eps4 = 3.94635 
+	eps5 = 3.87489 
+	eps6 = 4.34561 
+	eps7 = 4.37441 
+	eps8 = 4.01552 
+	eps9 = 3.87581 
+	eps10 = 3.76423 
+	eps11 = 3.96863 
+	eps12 = 3.95409 
+	eps13 = 3.73897 
+	eps14 = 4.22199 
+	eps15 = 4.06358 
+
+(Corresponding to run ID: 80)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.495 (Solver)
+	Last goal function value   = 98.6014 (Solver)
+	Solver time = 00:02:26 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.07883 
+	eps2 = 4.07932 
+	eps3 = 3.79447 
+	eps4 = 3.97939 
+	eps5 = 3.91769 
+	eps6 = 4.30553 
+	eps7 = 4.48217 
+	eps8 = 3.76327 
+	eps9 = 3.95268 
+	eps10 = 4.38528 
+	eps11 = 4.30405 
+	eps12 = 4.3096 
+	eps13 = 3.78591 
+	eps14 = 4.33993 
+	eps15 = 4.16057 
+
+(Corresponding to run ID: 81)
+
+
+Created complete backup of the project. (24 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 91.4518 (Solver)
+	Solver time = 00:02:22 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24775 
+	eps2 = 3.70476 
+	eps3 = 4.22167 
+	eps4 = 3.55918 
+	eps5 = 3.91769 
+	eps6 = 3.73928 
+	eps7 = 4.48217 
+	eps8 = 3.45933 
+	eps9 = 3.5306 
+	eps10 = 4.00669 
+	eps11 = 3.90772 
+	eps12 = 3.67911 
+	eps13 = 3.78591 
+	eps14 = 3.7687 
+	eps15 = 4.16057 
+
+(Corresponding to run ID: 82)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 93.3063 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:01:55 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.47038 
+	eps2 = 3.4 
+	eps3 = 4.25066 
+	eps4 = 3.4 
+	eps5 = 3.61903 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.91939 
+	eps9 = 3.9158 
+	eps10 = 3.75437 
+	eps11 = 4.07538 
+	eps12 = 4.32335 
+	eps13 = 3.93954 
+	eps14 = 3.4 
+	eps15 = 4.31071 
+
+(Corresponding to run ID: 83)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.5002 (Solver)
+	Solver time = 00:02:03 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.47038 
+	eps2 = 3.4 
+	eps3 = 4.47836 
+	eps4 = 4.16455 
+	eps5 = 3.61903 
+	eps6 = 3.73634 
+	eps7 = 4.56985 
+	eps8 = 4.39295 
+	eps9 = 4.42656 
+	eps10 = 4.52251 
+	eps11 = 4.07538 
+	eps12 = 4.17023 
+	eps13 = 3.93954 
+	eps14 = 4.02665 
+	eps15 = 4.31071 
+
+(Corresponding to run ID: 84)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.9163 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.67523 
+	eps2 = 4.21307 
+	eps3 = 4.47836 
+	eps4 = 3.64438 
+	eps5 = 3.61903 
+	eps6 = 3.73634 
+	eps7 = 3.85684 
+	eps8 = 4.59841 
+	eps9 = 3.77095 
+	eps10 = 3.46829 
+	eps11 = 4.07538 
+	eps12 = 3.83334 
+	eps13 = 3.93954 
+	eps14 = 3.43939 
+	eps15 = 4.31071 
+
+(Corresponding to run ID: 85)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 99.1309 (Solver)
+	Solver time = 00:02:06 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.67523 
+	eps2 = 4.3585 
+	eps3 = 3.94648 
+	eps4 = 3.66214 
+	eps5 = 3.61903 
+	eps6 = 3.73634 
+	eps7 = 3.85684 
+	eps8 = 3.45886 
+	eps9 = 3.84029 
+	eps10 = 3.99718 
+	eps11 = 4.07538 
+	eps12 = 3.5493 
+	eps13 = 3.93954 
+	eps14 = 3.52667 
+	eps15 = 4.51032 
+
+(Corresponding to run ID: 86)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.7755 (Solver)
+	Solver time = 00:02:00 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.92128 
+	eps2 = 4.30314 
+	eps3 = 3.73618 
+	eps4 = 4.06973 
+	eps5 = 3.95829 
+	eps6 = 4.33791 
+	eps7 = 4.44151 
+	eps8 = 3.84292 
+	eps9 = 3.99025 
+	eps10 = 3.82381 
+	eps11 = 3.77862 
+	eps12 = 3.98113 
+	eps13 = 3.77967 
+	eps14 = 4.22785 
+	eps15 = 4.09471 
+
+(Corresponding to run ID: 87)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.7739 (Solver)
+	Solver time = 00:02:24 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.92128 
+	eps2 = 3.4982 
+	eps3 = 3.73618 
+	eps4 = 4.06973 
+	eps5 = 3.95829 
+	eps6 = 4.46066 
+	eps7 = 4.44151 
+	eps8 = 3.84292 
+	eps9 = 3.95051 
+	eps10 = 3.82381 
+	eps11 = 3.77862 
+	eps12 = 3.98113 
+	eps13 = 3.78271 
+	eps14 = 4.22785 
+	eps15 = 4.09471 
+
+(Corresponding to run ID: 88)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.6499 (Solver)
+	Solver time = 00:02:28 h
+	Parameter update time   = 00:00:12 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.10021 
+	eps2 = 4.0523 
+	eps3 = 3.83623 
+	eps4 = 4.01515 
+	eps5 = 4.09733 
+	eps6 = 4.31067 
+	eps7 = 4.45853 
+	eps8 = 3.62045 
+	eps9 = 4.09888 
+	eps10 = 4.26528 
+	eps11 = 4.02323 
+	eps12 = 4.46545 
+	eps13 = 3.71461 
+	eps14 = 4.33258 
+	eps15 = 4.15487 
+
+(Corresponding to run ID: 89)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 93.6192 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.01008 
+	eps2 = 4.16162 
+	eps3 = 3.80095 
+	eps4 = 4.04638 
+	eps5 = 3.95849 
+	eps6 = 4.31485 
+	eps7 = 4.48391 
+	eps8 = 3.76236 
+	eps9 = 3.97145 
+	eps10 = 4.28678 
+	eps11 = 4.19543 
+	eps12 = 4.32946 
+	eps13 = 3.86964 
+	eps14 = 4.30269 
+	eps15 = 4.16064 
+
+(Corresponding to run ID: 90)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 92.6886 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.67348 
+	eps2 = 4.16162 
+	eps3 = 3.89382 
+	eps4 = 4.5929 
+	eps5 = 3.95849 
+	eps6 = 4.31485 
+	eps7 = 4.48391 
+	eps8 = 3.76236 
+	eps9 = 3.97145 
+	eps10 = 4.28678 
+	eps11 = 4.19543 
+	eps12 = 4.32946 
+	eps13 = 3.45444 
+	eps14 = 4.30269 
+	eps15 = 4.24369 
+
+(Corresponding to run ID: 91)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 93.8939 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.52234 
+	eps2 = 3.82483 
+	eps3 = 3.93582 
+	eps4 = 3.89381 
+	eps5 = 3.88921 
+	eps6 = 4.30057 
+	eps7 = 4.42811 
+	eps8 = 3.64238 
+	eps9 = 3.97455 
+	eps10 = 4.14709 
+	eps11 = 4.04609 
+	eps12 = 4.52483 
+	eps13 = 3.7346 
+	eps14 = 4.25806 
+	eps15 = 4.07607 
+
+(Corresponding to run ID: 92)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 92.5362 (Solver)
+	Solver time = 00:02:29 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.44575 
+	eps2 = 4.48019 
+	eps3 = 3.93582 
+	eps4 = 3.89381 
+	eps5 = 3.88921 
+	eps6 = 3.51733 
+	eps7 = 4.51104 
+	eps8 = 3.64238 
+	eps9 = 3.97455 
+	eps10 = 4.14709 
+	eps11 = 4.04609 
+	eps12 = 4.24846 
+	eps13 = 4.15963 
+	eps14 = 3.86101 
+	eps15 = 4.07607 
+
+(Corresponding to run ID: 93)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 94.4334 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.07385 
+	eps2 = 4.11723 
+	eps3 = 4.17383 
+	eps4 = 4.11642 
+	eps5 = 3.94723 
+	eps6 = 4.01415 
+	eps7 = 4.43269 
+	eps8 = 3.51786 
+	eps9 = 3.65322 
+	eps10 = 4.20464 
+	eps11 = 4.20934 
+	eps12 = 4.18529 
+	eps13 = 3.80339 
+	eps14 = 4.00091 
+	eps15 = 4.1414 
+
+(Corresponding to run ID: 94)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 96.5941 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.61629 
+	eps2 = 3.94514 
+	eps3 = 4.18725 
+	eps4 = 4.11642 
+	eps5 = 3.94723 
+	eps6 = 4.28637 
+	eps7 = 4.43269 
+	eps8 = 3.43715 
+	eps9 = 3.65322 
+	eps10 = 4.20464 
+	eps11 = 4.20934 
+	eps12 = 3.42614 
+	eps13 = 3.80339 
+	eps14 = 4.31715 
+	eps15 = 4.31923 
+
+(Corresponding to run ID: 95)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.2247 (Solver)
+	Solver time = 00:02:30 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.61629 
+	eps2 = 3.94514 
+	eps3 = 4.57501 
+	eps4 = 3.66447 
+	eps5 = 4.11559 
+	eps6 = 4.37685 
+	eps7 = 4.23055 
+	eps8 = 3.43715 
+	eps9 = 4.52302 
+	eps10 = 4.20464 
+	eps11 = 4.20934 
+	eps12 = 4.14218 
+	eps13 = 3.80339 
+	eps14 = 4.31715 
+	eps15 = 4.31923 
+
+(Corresponding to run ID: 96)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.4618 (Solver)
+	Solver time = 00:02:39 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.22804 
+	eps2 = 4.41295 
+	eps3 = 4.32403 
+	eps4 = 3.66447 
+	eps5 = 3.91621 
+	eps6 = 4.37685 
+	eps7 = 4.23055 
+	eps8 = 3.43715 
+	eps9 = 4.52302 
+	eps10 = 4.20464 
+	eps11 = 4.56039 
+	eps12 = 4.14218 
+	eps13 = 3.93803 
+	eps14 = 4.31358 
+	eps15 = 3.81158 
+
+(Corresponding to run ID: 97)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.2703 (Solver)
+	Solver time = 00:02:13 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:02:02 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.26281 
+	eps2 = 4.08926 
+	eps3 = 3.85458 
+	eps4 = 3.82645 
+	eps5 = 3.91304 
+	eps6 = 4.31862 
+	eps7 = 4.4482 
+	eps8 = 3.80061 
+	eps9 = 3.95308 
+	eps10 = 3.99358 
+	eps11 = 4.23978 
+	eps12 = 4.30497 
+	eps13 = 3.7844 
+	eps14 = 4.32132 
+	eps15 = 4.06523 
+
+(Corresponding to run ID: 98)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 91.7492 (Solver)
+	Solver time = 00:02:31 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.26281 
+	eps2 = 3.87085 
+	eps3 = 3.74632 
+	eps4 = 3.53804 
+	eps5 = 4.29486 
+	eps6 = 4.31862 
+	eps7 = 4.20974 
+	eps8 = 4.2692 
+	eps9 = 3.6194 
+	eps10 = 4.11314 
+	eps11 = 3.94263 
+	eps12 = 3.65012 
+	eps13 = 3.7844 
+	eps14 = 4.48682 
+	eps15 = 4.06523 
+
+(Corresponding to run ID: 99)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 95.3669 (Solver)
+	Solver time = 00:02:31 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.26281 
+	eps2 = 3.87085 
+	eps3 = 3.74632 
+	eps4 = 4.47113 
+	eps5 = 4.29486 
+	eps6 = 4.31862 
+	eps7 = 4.20974 
+	eps8 = 4.33099 
+	eps9 = 4.51705 
+	eps10 = 3.88887 
+	eps11 = 3.94263 
+	eps12 = 3.65012 
+	eps13 = 3.65546 
+	eps14 = 3.88247 
+	eps15 = 4.43461 
+
+(Corresponding to run ID: 100)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 98.1801 (Solver)
+	Solver time = 00:02:33 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.17298 
+	eps2 = 3.9513 
+	eps3 = 4.09159 
+	eps4 = 4.22765 
+	eps5 = 3.94093 
+	eps6 = 4.13871 
+	eps7 = 4.48235 
+	eps8 = 3.53173 
+	eps9 = 3.69165 
+	eps10 = 4.13375 
+	eps11 = 4.06497 
+	eps12 = 4.30759 
+	eps13 = 3.49623 
+	eps14 = 4.29045 
+	eps15 = 4.17286 
+
+(Corresponding to run ID: 101)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 96.4557 (Solver)
+	Solver time = 00:02:40 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.96315 
+	eps2 = 4.19582 
+	eps3 = 3.87722 
+	eps4 = 4.43871 
+	eps5 = 3.95559 
+	eps6 = 4.31748 
+	eps7 = 4.44154 
+	eps8 = 3.76074 
+	eps9 = 3.99653 
+	eps10 = 4.22662 
+	eps11 = 4.23135 
+	eps12 = 4.2426 
+	eps13 = 3.59036 
+	eps14 = 4.25608 
+	eps15 = 4.23829 
+
+(Corresponding to run ID: 102)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 94.0368 (Solver)
+	Solver time = 00:02:32 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.96315 
+	eps2 = 4.40249 
+	eps3 = 3.87722 
+	eps4 = 4.43871 
+	eps5 = 3.85727 
+	eps6 = 4.38643 
+	eps7 = 3.53536 
+	eps8 = 3.76074 
+	eps9 = 3.5692 
+	eps10 = 4.31934 
+	eps11 = 3.57628 
+	eps12 = 3.7843 
+	eps13 = 3.59036 
+	eps14 = 4.25608 
+	eps15 = 4.23829 
+
+(Corresponding to run ID: 103)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 94.2437 (Solver)
+	Solver time = 00:02:38 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.10435 
+	eps2 = 4.40249 
+	eps3 = 3.87722 
+	eps4 = 3.63521 
+	eps5 = 3.66908 
+	eps6 = 3.54445 
+	eps7 = 3.53536 
+	eps8 = 3.76074 
+	eps9 = 4.44311 
+	eps10 = 4.17054 
+	eps11 = 3.57628 
+	eps12 = 3.7843 
+	eps13 = 4.33297 
+	eps14 = 3.97641 
+	eps15 = 4.23829 
+
+(Corresponding to run ID: 104)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 95.4816 (Solver)
+	Solver time = 00:02:24 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:02:15 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 4.53144 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 4.16444 
+	eps7 = 3.4 
+	eps8 = 3.49249 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.98815 
+	eps12 = 3.92225 
+	eps13 = 4.49722 
+	eps14 = 3.83826 
+	eps15 = 4.11838 
+
+(Corresponding to run ID: 105)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.7259 (Solver)
+	Solver time = 00:02:17 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.0103 
+	eps2 = 4.24389 
+	eps3 = 3.87718 
+	eps4 = 4.02581 
+	eps5 = 3.90562 
+	eps6 = 4.37466 
+	eps7 = 4.40097 
+	eps8 = 3.8029 
+	eps9 = 3.77689 
+	eps10 = 4.14691 
+	eps11 = 3.76953 
+	eps12 = 3.91176 
+	eps13 = 3.67935 
+	eps14 = 4.24729 
+	eps15 = 4.09316 
+
+(Corresponding to run ID: 106)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 96.0294 (Solver)
+	Solver time = 00:02:26 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.43827 
+	eps2 = 3.70502 
+	eps3 = 4.07093 
+	eps4 = 3.61254 
+	eps5 = 3.89878 
+	eps6 = 4.19355 
+	eps7 = 4.46243 
+	eps8 = 3.46948 
+	eps9 = 3.55728 
+	eps10 = 4.0963 
+	eps11 = 3.91791 
+	eps12 = 3.73518 
+	eps13 = 3.76781 
+	eps14 = 4.06592 
+	eps15 = 4.08778 
+
+(Corresponding to run ID: 107)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 95.8597 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.16617 
+	eps2 = 4.55456 
+	eps3 = 4.07093 
+	eps4 = 3.82488 
+	eps5 = 3.55918 
+	eps6 = 4.19355 
+	eps7 = 3.6575 
+	eps8 = 3.98324 
+	eps9 = 3.61359 
+	eps10 = 3.80749 
+	eps11 = 3.91791 
+	eps12 = 3.73518 
+	eps13 = 3.76781 
+	eps14 = 4.06592 
+	eps15 = 4.08778 
+
+(Corresponding to run ID: 108)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 98.0689 (Solver)
+	Solver time = 00:02:11 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.44224 
+	eps2 = 3.85015 
+	eps3 = 4.07093 
+	eps4 = 3.82488 
+	eps5 = 3.55918 
+	eps6 = 4.01428 
+	eps7 = 3.6575 
+	eps8 = 3.79179 
+	eps9 = 3.61359 
+	eps10 = 4.21064 
+	eps11 = 4.13238 
+	eps12 = 3.43955 
+	eps13 = 3.76781 
+	eps14 = 4.4813 
+	eps15 = 3.41913 
+
+(Corresponding to run ID: 109)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.3075 (Solver)
+	Solver time = 00:02:30 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.30987 
+	eps2 = 4.08391 
+	eps3 = 4.07093 
+	eps4 = 3.82488 
+	eps5 = 4.13771 
+	eps6 = 4.01428 
+	eps7 = 3.6575 
+	eps8 = 3.79179 
+	eps9 = 3.61359 
+	eps10 = 4.21064 
+	eps11 = 4.13238 
+	eps12 = 4.58784 
+	eps13 = 4.39368 
+	eps14 = 4.4813 
+	eps15 = 3.41913 
+
+(Corresponding to run ID: 110)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.2733 (Solver)
+	Solver time = 00:02:33 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.7209 
+	eps2 = 4.16627 
+	eps3 = 3.88931 
+	eps4 = 4.51494 
+	eps5 = 3.93936 
+	eps6 = 4.33031 
+	eps7 = 3.72166 
+	eps8 = 3.76193 
+	eps9 = 3.76974 
+	eps10 = 4.31276 
+	eps11 = 3.82968 
+	eps12 = 4.16945 
+	eps13 = 3.55977 
+	eps14 = 4.28587 
+	eps15 = 4.24248 
+
+(Corresponding to run ID: 111)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 97.332 (Solver)
+	Solver time = 00:01:56 h
+	Parameter update time   = 00:00:23 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.90102 
+	eps2 = 4.10032 
+	eps3 = 3.88307 
+	eps4 = 4.23876 
+	eps5 = 3.94623 
+	eps6 = 4.30877 
+	eps7 = 4.4826 
+	eps8 = 3.763 
+	eps9 = 3.95721 
+	eps10 = 4.32873 
+	eps11 = 4.25718 
+	eps12 = 4.31487 
+	eps13 = 3.72973 
+	eps14 = 4.3261 
+	eps15 = 4.22052 
+
+(Corresponding to run ID: 112)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.4518 (Solver)
+	Last goal function value   = 94.0199 (Solver)
+	Solver time = 00:02:06 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.1842 
+	eps2 = 4.10887 
+	eps3 = 3.83351 
+	eps4 = 3.86252 
+	eps5 = 3.91273 
+	eps6 = 4.32184 
+	eps7 = 4.44782 
+	eps8 = 3.82979 
+	eps9 = 3.96445 
+	eps10 = 4.15832 
+	eps11 = 4.28281 
+	eps12 = 4.16045 
+	eps13 = 3.76522 
+	eps14 = 4.27207 
+	eps15 = 4.08654 
+
+(Corresponding to run ID: 113)
+
+
+Created complete backup of the project. (13 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 91.3752 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.18199 
+	eps2 = 4.15263 
+	eps3 = 3.87688 
+	eps4 = 3.90852 
+	eps5 = 3.90648 
+	eps6 = 4.36275 
+	eps7 = 4.17391 
+	eps8 = 3.8581 
+	eps9 = 3.83784 
+	eps10 = 4.17904 
+	eps11 = 4.12451 
+	eps12 = 4.0548 
+	eps13 = 3.7268 
+	eps14 = 4.21243 
+	eps15 = 4.21816 
+
+(Corresponding to run ID: 114)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 93.4977 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.46847 
+	eps2 = 3.74254 
+	eps3 = 4.0922 
+	eps4 = 3.73833 
+	eps5 = 3.90554 
+	eps6 = 4.23606 
+	eps7 = 4.4575 
+	eps8 = 3.60591 
+	eps9 = 3.67388 
+	eps10 = 4.13753 
+	eps11 = 4.00734 
+	eps12 = 4.1087 
+	eps13 = 3.7743 
+	eps14 = 4.01242 
+	eps15 = 4.1155 
+
+(Corresponding to run ID: 115)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 96.1098 (Solver)
+	Solver time = 00:02:10 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.20968 
+	eps2 = 3.805 
+	eps3 = 3.92983 
+	eps4 = 3.79893 
+	eps5 = 3.92895 
+	eps6 = 4.03323 
+	eps7 = 4.44576 
+	eps8 = 3.51297 
+	eps9 = 3.82777 
+	eps10 = 4.15274 
+	eps11 = 4.05922 
+	eps12 = 4.11862 
+	eps13 = 3.79493 
+	eps14 = 3.91465 
+	eps15 = 4.12885 
+
+(Corresponding to run ID: 116)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 95.0294 (Solver)
+	Solver time = 00:01:58 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24552 
+	eps2 = 4.18248 
+	eps3 = 3.85837 
+	eps4 = 3.82471 
+	eps5 = 3.91965 
+	eps6 = 4.31861 
+	eps7 = 4.44808 
+	eps8 = 3.77342 
+	eps9 = 3.9701 
+	eps10 = 4.15793 
+	eps11 = 4.24214 
+	eps12 = 4.30127 
+	eps13 = 3.79443 
+	eps14 = 4.22519 
+	eps15 = 4.09459 
+
+(Corresponding to run ID: 117)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 91.7611 (Solver)
+	Solver time = 00:02:06 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.27511 
+	eps2 = 3.9436 
+	eps3 = 3.90714 
+	eps4 = 3.84492 
+	eps5 = 3.90534 
+	eps6 = 4.31576 
+	eps7 = 4.43882 
+	eps8 = 3.66379 
+	eps9 = 3.95937 
+	eps10 = 4.01508 
+	eps11 = 4.15708 
+	eps12 = 4.33266 
+	eps13 = 3.75554 
+	eps14 = 4.30824 
+	eps15 = 4.07048 
+
+(Corresponding to run ID: 118)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 92.5118 (Solver)
+	Solver time = 00:02:08 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.4049 
+	eps2 = 3.9436 
+	eps3 = 3.90714 
+	eps4 = 4.52018 
+	eps5 = 3.67166 
+	eps6 = 4.0341 
+	eps7 = 4.43882 
+	eps8 = 3.95755 
+	eps9 = 3.68904 
+	eps10 = 4.27505 
+	eps11 = 3.94249 
+	eps12 = 4.59659 
+	eps13 = 4.00641 
+	eps14 = 4.16267 
+	eps15 = 3.87183 
+
+(Corresponding to run ID: 119)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 99.266 (Solver)
+	Solver time = 00:02:14 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.19987 
+	eps2 = 3.99124 
+	eps3 = 3.88405 
+	eps4 = 3.84657 
+	eps5 = 3.90926 
+	eps6 = 4.31644 
+	eps7 = 4.44682 
+	eps8 = 3.6998 
+	eps9 = 3.95954 
+	eps10 = 4.0352 
+	eps11 = 4.25561 
+	eps12 = 4.30745 
+	eps13 = 3.75964 
+	eps14 = 4.30275 
+	eps15 = 4.08019 
+
+(Corresponding to run ID: 120)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 92.26 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:12 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.19987 
+	eps2 = 3.90885 
+	eps3 = 3.88405 
+	eps4 = 3.58887 
+	eps5 = 4.05231 
+	eps6 = 4.31644 
+	eps7 = 4.59332 
+	eps8 = 3.84673 
+	eps9 = 4.32483 
+	eps10 = 4.0352 
+	eps11 = 4.25561 
+	eps12 = 3.75058 
+	eps13 = 3.75964 
+	eps14 = 3.714 
+	eps15 = 4.08019 
+
+(Corresponding to run ID: 121)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 93.4071 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.2542 
+	eps2 = 4.03735 
+	eps3 = 3.95448 
+	eps4 = 3.74386 
+	eps5 = 3.9112 
+	eps6 = 3.74817 
+	eps7 = 4.47222 
+	eps8 = 3.66981 
+	eps9 = 3.82507 
+	eps10 = 3.99021 
+	eps11 = 3.94703 
+	eps12 = 3.79779 
+	eps13 = 3.76227 
+	eps14 = 3.82359 
+	eps15 = 4.07181 
+
+(Corresponding to run ID: 122)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 95.0298 (Solver)
+	Solver time = 00:02:31 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.41312 
+	eps2 = 3.97691 
+	eps3 = 3.9113 
+	eps4 = 3.9193 
+	eps5 = 3.90008 
+	eps6 = 4.30493 
+	eps7 = 4.45598 
+	eps8 = 3.66343 
+	eps9 = 3.95967 
+	eps10 = 4.18704 
+	eps11 = 4.26762 
+	eps12 = 4.44367 
+	eps13 = 3.7388 
+	eps14 = 4.26705 
+	eps15 = 4.14657 
+
+(Corresponding to run ID: 123)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 92.7625 (Solver)
+	Solver time = 00:02:07 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.35169 
+	eps2 = 4.14478 
+	eps3 = 3.92105 
+	eps4 = 4.14834 
+	eps5 = 3.95024 
+	eps6 = 4.30383 
+	eps7 = 4.44108 
+	eps8 = 3.71038 
+	eps9 = 3.97164 
+	eps10 = 4.24013 
+	eps11 = 4.10785 
+	eps12 = 4.47889 
+	eps13 = 3.57646 
+	eps14 = 4.27702 
+	eps15 = 4.13641 
+
+(Corresponding to run ID: 124)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 92.1363 (Solver)
+	Solver time = 00:01:57 h
+	Parameter update time   = 00:00:12 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.35169 
+	eps2 = 4.14478 
+	eps3 = 3.92105 
+	eps4 = 3.74417 
+	eps5 = 3.95024 
+	eps6 = 4.30383 
+	eps7 = 4.44108 
+	eps8 = 3.71038 
+	eps9 = 4.18229 
+	eps10 = 3.89648 
+	eps11 = 4.10785 
+	eps12 = 4.47889 
+	eps13 = 4.52201 
+	eps14 = 4.27702 
+	eps15 = 4.13641 
+
+(Corresponding to run ID: 125)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 95.5757 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:16 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.71061 
+	eps2 = 4.14478 
+	eps3 = 3.92658 
+	eps4 = 4.43951 
+	eps5 = 4.05303 
+	eps6 = 4.48002 
+	eps7 = 4.44108 
+	eps8 = 4.41605 
+	eps9 = 4.18229 
+	eps10 = 3.89648 
+	eps11 = 4.10785 
+	eps12 = 4.47889 
+	eps13 = 4.16776 
+	eps14 = 3.63637 
+	eps15 = 4.13641 
+
+(Corresponding to run ID: 126)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 96.9905 (Solver)
+	Solver time = 00:02:05 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.71061 
+	eps2 = 4.14478 
+	eps3 = 3.92658 
+	eps4 = 4.36598 
+	eps5 = 4.05303 
+	eps6 = 4.48002 
+	eps7 = 3.95886 
+	eps8 = 3.55384 
+	eps9 = 3.48301 
+	eps10 = 3.60967 
+	eps11 = 4.46528 
+	eps12 = 3.90063 
+	eps13 = 4.16776 
+	eps14 = 3.63637 
+	eps15 = 4.13641 
+
+(Corresponding to run ID: 127)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 99.702 (Solver)
+	Solver time = 00:02:01 h
+	Parameter update time   = 00:00:08 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:01:54 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.18796 
+	eps2 = 3.79108 
+	eps3 = 3.99998 
+	eps4 = 3.58036 
+	eps5 = 3.91659 
+	eps6 = 4.29793 
+	eps7 = 4.45893 
+	eps8 = 3.58527 
+	eps9 = 3.91933 
+	eps10 = 4.08321 
+	eps11 = 3.93507 
+	eps12 = 4.04932 
+	eps13 = 3.78587 
+	eps14 = 4.06893 
+	eps15 = 4.13534 
+
+(Corresponding to run ID: 128)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 96.5232 (Solver)
+	Solver time = 00:01:49 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.2164 
+	eps2 = 4.32893 
+	eps3 = 4.02797 
+	eps4 = 3.64884 
+	eps5 = 3.87354 
+	eps6 = 3.95135 
+	eps7 = 3.62345 
+	eps8 = 3.56821 
+	eps9 = 3.56665 
+	eps10 = 4.09516 
+	eps11 = 3.66513 
+	eps12 = 3.68456 
+	eps13 = 3.71493 
+	eps14 = 4.00203 
+	eps15 = 4.22107 
+
+(Corresponding to run ID: 129)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 95.7691 (Solver)
+	Solver time = 00:02:04 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.51059 
+	eps2 = 4.32893 
+	eps3 = 4.46803 
+	eps4 = 4.55713 
+	eps5 = 3.87354 
+	eps6 = 4.27484 
+	eps7 = 4.4907 
+	eps8 = 3.56821 
+	eps9 = 3.56665 
+	eps10 = 3.9988 
+	eps11 = 3.5782 
+	eps12 = 3.4319 
+	eps13 = 3.71493 
+	eps14 = 4.27182 
+	eps15 = 4.22107 
+
+(Corresponding to run ID: 130)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 94.8663 (Solver)
+	Solver time = 00:02:15 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.15611 
+	eps2 = 4.08341 
+	eps3 = 3.7975 
+	eps4 = 4.06793 
+	eps5 = 3.91973 
+	eps6 = 4.30516 
+	eps7 = 4.44854 
+	eps8 = 3.74319 
+	eps9 = 3.95583 
+	eps10 = 4.27624 
+	eps11 = 4.23563 
+	eps12 = 4.32373 
+	eps13 = 3.59088 
+	eps14 = 4.29204 
+	eps15 = 4.15408 
+
+(Corresponding to run ID: 131)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 91.5588 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:16 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.1422 
+	eps2 = 4.03552 
+	eps3 = 3.82344 
+	eps4 = 3.789 
+	eps5 = 3.97256 
+	eps6 = 4.30665 
+	eps7 = 4.56415 
+	eps8 = 3.81284 
+	eps9 = 4.12903 
+	eps10 = 4.29134 
+	eps11 = 4.2913 
+	eps12 = 3.87264 
+	eps13 = 3.76487 
+	eps14 = 4.14544 
+	eps15 = 4.08432 
+
+(Corresponding to run ID: 132)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 96.2065 (Solver)
+	Solver time = 00:02:15 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.36496 
+	eps2 = 3.86074 
+	eps3 = 3.928 
+	eps4 = 3.82448 
+	eps5 = 4.01432 
+	eps6 = 4.31316 
+	eps7 = 4.54604 
+	eps8 = 3.80588 
+	eps9 = 4.13787 
+	eps10 = 4.13993 
+	eps11 = 4.21581 
+	eps12 = 3.81557 
+	eps13 = 3.75183 
+	eps14 = 4.16024 
+	eps15 = 4.07654 
+
+(Corresponding to run ID: 133)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 93.9236 (Solver)
+	Solver time = 00:02:11 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.70036 
+	eps2 = 3.86074 
+	eps3 = 3.928 
+	eps4 = 3.82448 
+	eps5 = 4.19455 
+	eps6 = 4.31316 
+	eps7 = 4.16243 
+	eps8 = 3.80588 
+	eps9 = 4.13787 
+	eps10 = 4.45957 
+	eps11 = 3.85341 
+	eps12 = 4.05251 
+	eps13 = 3.75183 
+	eps14 = 4.16024 
+	eps15 = 4.07654 
+
+(Corresponding to run ID: 134)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 98.8598 (Solver)
+	Solver time = 00:02:09 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.06429 
+	eps2 = 4.3922 
+	eps3 = 3.86878 
+	eps4 = 4.09654 
+	eps5 = 3.90715 
+	eps6 = 4.37413 
+	eps7 = 3.97672 
+	eps8 = 3.76395 
+	eps9 = 3.64209 
+	eps10 = 4.25321 
+	eps11 = 4.17945 
+	eps12 = 4.03721 
+	eps13 = 3.73877 
+	eps14 = 4.26395 
+	eps15 = 4.09738 
+
+(Corresponding to run ID: 135)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 94.6419 (Solver)
+	Solver time = 00:02:00 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.19435 
+	eps2 = 3.81448 
+	eps3 = 3.93232 
+	eps4 = 3.84827 
+	eps5 = 3.91468 
+	eps6 = 3.90605 
+	eps7 = 4.47972 
+	eps8 = 3.53793 
+	eps9 = 3.728 
+	eps10 = 4.09568 
+	eps11 = 4.15872 
+	eps12 = 4.12865 
+	eps13 = 3.76549 
+	eps14 = 4.0992 
+	eps15 = 4.09289 
+
+(Corresponding to run ID: 136)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 95.2731 (Solver)
+	Solver time = 00:02:12 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.1972 
+	eps2 = 3.89051 
+	eps3 = 4.18443 
+	eps4 = 3.87521 
+	eps5 = 3.91769 
+	eps6 = 3.82706 
+	eps7 = 4.48217 
+	eps8 = 3.75361 
+	eps9 = 3.79682 
+	eps10 = 4.04945 
+	eps11 = 4.00392 
+	eps12 = 3.90985 
+	eps13 = 3.78591 
+	eps14 = 4.27296 
+	eps15 = 4.16057 
+
+(Corresponding to run ID: 137)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 96.2949 (Solver)
+	Solver time = 00:02:08 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.44449 
+	eps2 = 4.04362 
+	eps3 = 3.92841 
+	eps4 = 4.03593 
+	eps5 = 3.90445 
+	eps6 = 4.30089 
+	eps7 = 4.43764 
+	eps8 = 3.67998 
+	eps9 = 3.97291 
+	eps10 = 4.2374 
+	eps11 = 4.09422 
+	eps12 = 4.50952 
+	eps13 = 3.65063 
+	eps14 = 4.2588 
+	eps15 = 4.0761 
+
+(Corresponding to run ID: 138)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 92.2101 (Solver)
+	Solver time = 00:02:10 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.44449 
+	eps2 = 3.61376 
+	eps3 = 3.92841 
+	eps4 = 3.52174 
+	eps5 = 3.50912 
+	eps6 = 4.09321 
+	eps7 = 3.95483 
+	eps8 = 4.58651 
+	eps9 = 4.33323 
+	eps10 = 4.2374 
+	eps11 = 4.06128 
+	eps12 = 4.18396 
+	eps13 = 3.65063 
+	eps14 = 4.29506 
+	eps15 = 4.0761 
+
+(Corresponding to run ID: 139)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 97.4398 (Solver)
+	Solver time = 00:02:10 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.17904 
+	eps2 = 4.06705 
+	eps3 = 3.86118 
+	eps4 = 3.65547 
+	eps5 = 3.97027 
+	eps6 = 4.3144 
+	eps7 = 4.55173 
+	eps8 = 3.78192 
+	eps9 = 4.19015 
+	eps10 = 4.07939 
+	eps11 = 4.24193 
+	eps12 = 4.0634 
+	eps13 = 3.63023 
+	eps14 = 3.85485 
+	eps15 = 4.10032 
+
+(Corresponding to run ID: 140)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 94.6327 (Solver)
+	Solver time = 00:01:54 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.48698 
+	eps2 = 3.88505 
+	eps3 = 3.89398 
+	eps4 = 3.79684 
+	eps5 = 4.04305 
+	eps6 = 4.31563 
+	eps7 = 4.56205 
+	eps8 = 3.82313 
+	eps9 = 4.26175 
+	eps10 = 4.07568 
+	eps11 = 4.21616 
+	eps12 = 3.88961 
+	eps13 = 3.75655 
+	eps14 = 3.76803 
+	eps15 = 4.07996 
+
+(Corresponding to run ID: 141)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 94.5763 (Solver)
+	Solver time = 00:01:55 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.48698 
+	eps2 = 4.45169 
+	eps3 = 3.89398 
+	eps4 = 4.20634 
+	eps5 = 4.32822 
+	eps6 = 4.31563 
+	eps7 = 4.56205 
+	eps8 = 3.82313 
+	eps9 = 4.49956 
+	eps10 = 3.54691 
+	eps11 = 3.45586 
+	eps12 = 4.13694 
+	eps13 = 4.01034 
+	eps14 = 4.09257 
+	eps15 = 4.33898 
+
+(Corresponding to run ID: 142)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.3752 (Solver)
+	Last goal function value   = 95.6272 (Solver)
+	Solver time = 00:02:03 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.08478 
+	eps2 = 4.09185 
+	eps3 = 3.8012 
+	eps4 = 3.91325 
+	eps5 = 3.91392 
+	eps6 = 4.30996 
+	eps7 = 4.47876 
+	eps8 = 3.79423 
+	eps9 = 3.9597 
+	eps10 = 4.31143 
+	eps11 = 4.28926 
+	eps12 = 4.28153 
+	eps13 = 3.77741 
+	eps14 = 4.30874 
+	eps15 = 4.09452 
+
+(Corresponding to run ID: 143)
+
+
+Created complete backup of the project. (8.594 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 91.2452 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.22812 
+	eps2 = 4.02411 
+	eps3 = 3.97838 
+	eps4 = 3.64285 
+	eps5 = 3.91284 
+	eps6 = 3.7907 
+	eps7 = 4.47657 
+	eps8 = 3.71178 
+	eps9 = 3.92267 
+	eps10 = 4.02485 
+	eps11 = 3.93244 
+	eps12 = 4.05088 
+	eps13 = 3.7743 
+	eps14 = 4.09536 
+	eps15 = 4.1016 
+
+(Corresponding to run ID: 144)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 97.0456 (Solver)
+	Solver time = 00:02:07 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21528 
+	eps2 = 3.71312 
+	eps3 = 3.82864 
+	eps4 = 3.75349 
+	eps5 = 3.91893 
+	eps6 = 4.06265 
+	eps7 = 4.46465 
+	eps8 = 3.58364 
+	eps9 = 3.5457 
+	eps10 = 4.21931 
+	eps11 = 4.03177 
+	eps12 = 3.76024 
+	eps13 = 3.70264 
+	eps14 = 4.2096 
+	eps15 = 4.15493 
+
+(Corresponding to run ID: 145)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 96.3531 (Solver)
+	Solver time = 00:02:31 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21528 
+	eps2 = 3.71312 
+	eps3 = 4.34045 
+	eps4 = 3.54922 
+	eps5 = 3.91893 
+	eps6 = 3.78007 
+	eps7 = 4.46465 
+	eps8 = 3.58364 
+	eps9 = 3.5457 
+	eps10 = 4.21931 
+	eps11 = 4.03177 
+	eps12 = 3.76024 
+	eps13 = 3.70264 
+	eps14 = 3.47652 
+	eps15 = 4.59038 
+
+(Corresponding to run ID: 146)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 94.9971 (Solver)
+	Solver time = 00:02:36 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.25947 
+	eps2 = 4.05236 
+	eps3 = 3.90656 
+	eps4 = 3.72635 
+	eps5 = 4.00454 
+	eps6 = 4.31371 
+	eps7 = 4.44431 
+	eps8 = 3.72594 
+	eps9 = 4.16101 
+	eps10 = 4.11917 
+	eps11 = 4.11242 
+	eps12 = 4.09689 
+	eps13 = 3.65738 
+	eps14 = 3.81626 
+	eps15 = 4.08687 
+
+(Corresponding to run ID: 147)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 93.9927 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.39977 
+	eps2 = 3.99536 
+	eps3 = 3.90485 
+	eps4 = 3.6575 
+	eps5 = 4.04922 
+	eps6 = 4.30148 
+	eps7 = 4.44334 
+	eps8 = 3.69741 
+	eps9 = 4.2727 
+	eps10 = 4.06141 
+	eps11 = 4.18554 
+	eps12 = 4.02386 
+	eps13 = 3.71353 
+	eps14 = 4.23873 
+	eps15 = 4.0781 
+
+(Corresponding to run ID: 148)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 93.7187 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.45861 
+	eps2 = 3.99996 
+	eps3 = 3.93022 
+	eps4 = 4.02959 
+	eps5 = 3.89312 
+	eps6 = 4.30063 
+	eps7 = 4.42988 
+	eps8 = 3.67069 
+	eps9 = 3.97366 
+	eps10 = 4.17278 
+	eps11 = 4.04611 
+	eps12 = 4.5212 
+	eps13 = 3.65435 
+	eps14 = 4.25842 
+	eps15 = 4.07609 
+
+(Corresponding to run ID: 149)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 92.9911 (Solver)
+	Solver time = 00:02:40 h
+	Parameter update time   = 00:00:28 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.83252 
+	eps2 = 3.99996 
+	eps3 = 3.93022 
+	eps4 = 4.02959 
+	eps5 = 3.89312 
+	eps6 = 4.30063 
+	eps7 = 4.42988 
+	eps8 = 3.91539 
+	eps9 = 3.97366 
+	eps10 = 4.17278 
+	eps11 = 4.04611 
+	eps12 = 4.15179 
+	eps13 = 3.65435 
+	eps14 = 4.25842 
+	eps15 = 4.14859 
+
+(Corresponding to run ID: 150)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 94.9926 (Solver)
+	Solver time = 00:02:36 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24049 
+	eps2 = 3.99657 
+	eps3 = 3.82855 
+	eps4 = 3.73153 
+	eps5 = 4.00799 
+	eps6 = 4.30437 
+	eps7 = 4.45998 
+	eps8 = 3.75819 
+	eps9 = 4.24921 
+	eps10 = 4.09646 
+	eps11 = 4.22216 
+	eps12 = 4.26586 
+	eps13 = 3.71372 
+	eps14 = 4.26693 
+	eps15 = 4.09335 
+
+(Corresponding to run ID: 151)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 91.9319 (Solver)
+	Solver time = 00:02:33 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.17485 
+	eps2 = 4.05893 
+	eps3 = 4.22138 
+	eps4 = 3.70941 
+	eps5 = 3.91675 
+	eps6 = 3.87368 
+	eps7 = 4.4807 
+	eps8 = 3.66473 
+	eps9 = 3.8635 
+	eps10 = 4.17792 
+	eps11 = 4.28154 
+	eps12 = 3.71596 
+	eps13 = 3.78028 
+	eps14 = 4.18743 
+	eps15 = 4.10223 
+
+(Corresponding to run ID: 152)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 97.1448 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.38006 
+	eps2 = 3.74704 
+	eps3 = 4.17983 
+	eps4 = 3.98126 
+	eps5 = 3.89538 
+	eps6 = 4.06574 
+	eps7 = 4.48097 
+	eps8 = 3.66227 
+	eps9 = 3.82055 
+	eps10 = 4.10518 
+	eps11 = 4.01373 
+	eps12 = 4.13005 
+	eps13 = 3.66611 
+	eps14 = 3.84775 
+	eps15 = 4.08068 
+
+(Corresponding to run ID: 153)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 94.184 (Solver)
+	Solver time = 00:02:30 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.38006 
+	eps2 = 3.65419 
+	eps3 = 3.78727 
+	eps4 = 3.77163 
+	eps5 = 3.89538 
+	eps6 = 4.18623 
+	eps7 = 3.74431 
+	eps8 = 3.95718 
+	eps9 = 4.46294 
+	eps10 = 4.10518 
+	eps11 = 3.62015 
+	eps12 = 4.13005 
+	eps13 = 3.66611 
+	eps14 = 3.58453 
+	eps15 = 4.15081 
+
+(Corresponding to run ID: 154)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 95.5777 (Solver)
+	Solver time = 00:02:24 h
+	Parameter update time   = 00:00:23 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.26326 
+	eps2 = 3.9033 
+	eps3 = 3.89755 
+	eps4 = 3.63976 
+	eps5 = 3.90734 
+	eps6 = 4.31047 
+	eps7 = 4.53682 
+	eps8 = 3.67895 
+	eps9 = 4.05777 
+	eps10 = 4.13891 
+	eps11 = 4.23771 
+	eps12 = 3.79202 
+	eps13 = 3.74828 
+	eps14 = 3.73935 
+	eps15 = 4.07851 
+
+(Corresponding to run ID: 155)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 95.3208 (Solver)
+	Solver time = 00:02:21 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.20203 
+	eps2 = 4.06941 
+	eps3 = 3.89102 
+	eps4 = 4.12589 
+	eps5 = 3.98575 
+	eps6 = 4.30672 
+	eps7 = 4.46967 
+	eps8 = 3.75941 
+	eps9 = 4.17298 
+	eps10 = 4.13215 
+	eps11 = 4.19659 
+	eps12 = 3.8715 
+	eps13 = 3.68332 
+	eps14 = 4.22191 
+	eps15 = 4.1315 
+
+(Corresponding to run ID: 156)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 94.9408 (Solver)
+	Solver time = 00:02:24 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.20203 
+	eps2 = 4.55228 
+	eps3 = 3.68374 
+	eps4 = 4.12589 
+	eps5 = 3.58108 
+	eps6 = 4.30672 
+	eps7 = 3.43117 
+	eps8 = 4.29399 
+	eps9 = 4.57657 
+	eps10 = 4.13215 
+	eps11 = 4.19659 
+	eps12 = 3.8715 
+	eps13 = 3.68332 
+	eps14 = 4.19307 
+	eps15 = 3.94245 
+
+(Corresponding to run ID: 157)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 98.9325 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.20203 
+	eps2 = 4.05455 
+	eps3 = 3.68374 
+	eps4 = 3.66222 
+	eps5 = 3.58108 
+	eps6 = 3.6064 
+	eps7 = 3.43117 
+	eps8 = 4.17518 
+	eps9 = 4.57657 
+	eps10 = 4.13215 
+	eps11 = 4.19659 
+	eps12 = 4.23719 
+	eps13 = 3.68332 
+	eps14 = 4.17395 
+	eps15 = 3.94245 
+
+(Corresponding to run ID: 158)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 97.7859 (Solver)
+	Solver time = 00:02:24 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:02:10 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21704 
+	eps2 = 3.87677 
+	eps3 = 3.8358 
+	eps4 = 3.65854 
+	eps5 = 3.91507 
+	eps6 = 4.28706 
+	eps7 = 4.48199 
+	eps8 = 3.49681 
+	eps9 = 3.78215 
+	eps10 = 4.01226 
+	eps11 = 3.98575 
+	eps12 = 3.8905 
+	eps13 = 3.78023 
+	eps14 = 4.15806 
+	eps15 = 4.13934 
+
+(Corresponding to run ID: 159)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 96.3531 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.20906 
+	eps2 = 3.84653 
+	eps3 = 4.0819 
+	eps4 = 3.58305 
+	eps5 = 3.96771 
+	eps6 = 4.28758 
+	eps7 = 4.51495 
+	eps8 = 3.52992 
+	eps9 = 4.28452 
+	eps10 = 4.03493 
+	eps11 = 4.22445 
+	eps12 = 3.72615 
+	eps13 = 3.76756 
+	eps14 = 3.7187 
+	eps15 = 4.13266 
+
+(Corresponding to run ID: 160)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 94.4243 (Solver)
+	Solver time = 00:02:12 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.52161 
+	eps2 = 3.85361 
+	eps3 = 3.93475 
+	eps4 = 3.92415 
+	eps5 = 3.89191 
+	eps6 = 4.30081 
+	eps7 = 4.43532 
+	eps8 = 3.65187 
+	eps9 = 3.97412 
+	eps10 = 4.22852 
+	eps11 = 4.0468 
+	eps12 = 4.51247 
+	eps13 = 3.65414 
+	eps14 = 4.25833 
+	eps15 = 4.0761 
+
+(Corresponding to run ID: 161)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 93.1836 (Solver)
+	Solver time = 00:02:08 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.26419 
+	eps2 = 3.96208 
+	eps3 = 3.86333 
+	eps4 = 3.81762 
+	eps5 = 4.0068 
+	eps6 = 4.30419 
+	eps7 = 4.4423 
+	eps8 = 3.73902 
+	eps9 = 3.98715 
+	eps10 = 4.13466 
+	eps11 = 4.09735 
+	eps12 = 4.52457 
+	eps13 = 3.73166 
+	eps14 = 4.26166 
+	eps15 = 4.08993 
+
+(Corresponding to run ID: 162)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 91.2452 (Solver)
+	Last goal function value   = 91.8424 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24395 
+	eps2 = 4.07923 
+	eps3 = 3.87656 
+	eps4 = 3.99163 
+	eps5 = 3.9635 
+	eps6 = 4.30417 
+	eps7 = 4.4487 
+	eps8 = 3.7334 
+	eps9 = 4.16447 
+	eps10 = 4.2145 
+	eps11 = 4.21499 
+	eps12 = 4.34019 
+	eps13 = 3.59381 
+	eps14 = 4.26979 
+	eps15 = 4.09488 
+
+(Corresponding to run ID: 163)
+
+
+Created complete backup of the project. (17 sec)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 90.5842 (Solver)
+	Solver time = 00:02:31 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.3576 
+	eps2 = 4.1327 
+	eps3 = 3.92836 
+	eps4 = 4.06872 
+	eps5 = 3.93428 
+	eps6 = 4.30337 
+	eps7 = 4.43881 
+	eps8 = 3.6954 
+	eps9 = 3.97188 
+	eps10 = 4.23942 
+	eps11 = 4.09831 
+	eps12 = 4.48159 
+	eps13 = 3.61859 
+	eps14 = 4.26756 
+	eps15 = 4.07688 
+
+(Corresponding to run ID: 164)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.1338 (Solver)
+	Solver time = 00:02:06 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.32201 
+	eps2 = 3.92449 
+	eps3 = 3.90156 
+	eps4 = 3.99953 
+	eps5 = 3.95689 
+	eps6 = 4.31143 
+	eps7 = 4.54647 
+	eps8 = 3.84489 
+	eps9 = 4.258 
+	eps10 = 4.0907 
+	eps11 = 4.11859 
+	eps12 = 3.91887 
+	eps13 = 3.69859 
+	eps14 = 3.85045 
+	eps15 = 4.07939 
+
+(Corresponding to run ID: 165)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.732 (Solver)
+	Solver time = 00:02:08 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.4 
+	eps2 = 3.4 
+	eps3 = 3.4 
+	eps4 = 3.4 
+	eps5 = 3.4 
+	eps6 = 3.4 
+	eps7 = 3.4 
+	eps8 = 3.4 
+	eps9 = 3.4 
+	eps10 = 3.4 
+	eps11 = 3.4 
+	eps12 = 3.4 
+	eps13 = 3.4 
+	eps14 = 3.4 
+	eps15 = 3.4 
+
+(Corresponding to run ID: 54)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 98.9384 (Solver)
+	Solver time = 00:02:14 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.2456 
+	eps2 = 3.92437 
+	eps3 = 4.13087 
+	eps4 = 3.82157 
+	eps5 = 3.96218 
+	eps6 = 4.05498 
+	eps7 = 4.45784 
+	eps8 = 3.67301 
+	eps9 = 3.83441 
+	eps10 = 4.15907 
+	eps11 = 3.99105 
+	eps12 = 3.86179 
+	eps13 = 3.69687 
+	eps14 = 4.15521 
+	eps15 = 4.14354 
+
+(Corresponding to run ID: 166)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 97.978 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.32791 
+	eps2 = 3.75967 
+	eps3 = 4.17263 
+	eps4 = 3.99298 
+	eps5 = 3.92981 
+	eps6 = 4.0707 
+	eps7 = 4.47741 
+	eps8 = 3.47859 
+	eps9 = 3.8665 
+	eps10 = 4.07488 
+	eps11 = 4.038 
+	eps12 = 3.72466 
+	eps13 = 3.75545 
+	eps14 = 4.07575 
+	eps15 = 4.0899 
+
+(Corresponding to run ID: 167)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.5687 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14769 
+	eps2 = 4.01515 
+	eps3 = 3.8679 
+	eps4 = 3.65474 
+	eps5 = 4.02427 
+	eps6 = 4.31101 
+	eps7 = 4.54151 
+	eps8 = 3.80802 
+	eps9 = 3.97211 
+	eps10 = 4.12647 
+	eps11 = 4.28908 
+	eps12 = 4.19094 
+	eps13 = 3.76275 
+	eps14 = 4.17129 
+	eps15 = 4.085 
+
+(Corresponding to run ID: 168)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 92.1256 (Solver)
+	Solver time = 00:02:06 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.48779 
+	eps2 = 4.03922 
+	eps3 = 3.98221 
+	eps4 = 3.73849 
+	eps5 = 4.02427 
+	eps6 = 4.31101 
+	eps7 = 3.6208 
+	eps8 = 3.80802 
+	eps9 = 3.68568 
+	eps10 = 3.65925 
+	eps11 = 4.42151 
+	eps12 = 4.19094 
+	eps13 = 3.76275 
+	eps14 = 4.17129 
+	eps15 = 4.12448 
+
+(Corresponding to run ID: 169)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.9238 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:08 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.40827 
+	eps2 = 3.91637 
+	eps3 = 3.87829 
+	eps4 = 3.82652 
+	eps5 = 3.9544 
+	eps6 = 4.30391 
+	eps7 = 4.43208 
+	eps8 = 3.68135 
+	eps9 = 3.98025 
+	eps10 = 4.1354 
+	eps11 = 4.07384 
+	eps12 = 4.52476 
+	eps13 = 3.73176 
+	eps14 = 4.26161 
+	eps15 = 4.07741 
+
+(Corresponding to run ID: 170)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 92.2231 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.50088 
+	eps2 = 3.86502 
+	eps3 = 3.9009 
+	eps4 = 3.58906 
+	eps5 = 3.96383 
+	eps6 = 4.30665 
+	eps7 = 4.52762 
+	eps8 = 3.82611 
+	eps9 = 4.32091 
+	eps10 = 4.11402 
+	eps11 = 4.10741 
+	eps12 = 4.4483 
+	eps13 = 3.74176 
+	eps14 = 3.84913 
+	eps15 = 4.07848 
+
+(Corresponding to run ID: 171)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.4677 (Solver)
+	Solver time = 00:02:36 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.1575 
+	eps2 = 3.86502 
+	eps3 = 3.9009 
+	eps4 = 3.58906 
+	eps5 = 3.46319 
+	eps6 = 4.10729 
+	eps7 = 4.52762 
+	eps8 = 3.42629 
+	eps9 = 3.73888 
+	eps10 = 4.11402 
+	eps11 = 4.1919 
+	eps12 = 4.4483 
+	eps13 = 4.4775 
+	eps14 = 3.84913 
+	eps15 = 4.07848 
+
+(Corresponding to run ID: 172)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.8162 (Solver)
+	Solver time = 00:02:43 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24795 
+	eps2 = 4.06578 
+	eps3 = 3.87663 
+	eps4 = 3.89747 
+	eps5 = 3.95618 
+	eps6 = 4.30405 
+	eps7 = 4.44726 
+	eps8 = 3.72406 
+	eps9 = 4.09844 
+	eps10 = 4.14214 
+	eps11 = 4.19038 
+	eps12 = 4.43384 
+	eps13 = 3.65005 
+	eps14 = 4.2651 
+	eps15 = 4.08959 
+
+(Corresponding to run ID: 173)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.3047 (Solver)
+	Solver time = 00:02:38 h
+	Parameter update time   = 00:00:23 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24534 
+	eps2 = 3.98223 
+	eps3 = 4.17783 
+	eps4 = 3.91429 
+	eps5 = 3.94054 
+	eps6 = 3.88377 
+	eps7 = 4.46347 
+	eps8 = 3.57565 
+	eps9 = 3.5793 
+	eps10 = 4.05351 
+	eps11 = 3.96365 
+	eps12 = 3.70317 
+	eps13 = 3.68998 
+	eps14 = 4.14484 
+	eps15 = 4.11381 
+
+(Corresponding to run ID: 174)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 96.3023 (Solver)
+	Solver time = 00:02:46 h
+	Parameter update time   = 00:00:24 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.2953 
+	eps2 = 3.72477 
+	eps3 = 4.20686 
+	eps4 = 3.66125 
+	eps5 = 3.89426 
+	eps6 = 4.19124 
+	eps7 = 4.46774 
+	eps8 = 3.48318 
+	eps9 = 3.69678 
+	eps10 = 4.00832 
+	eps11 = 4.01796 
+	eps12 = 3.7544 
+	eps13 = 3.75357 
+	eps14 = 3.92192 
+	eps15 = 4.09635 
+
+(Corresponding to run ID: 175)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.6629 (Solver)
+	Solver time = 00:02:18 h
+	Parameter update time   = 00:00:23 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.2953 
+	eps2 = 3.72477 
+	eps3 = 4.20686 
+	eps4 = 4.00762 
+	eps5 = 4.276 
+	eps6 = 4.48822 
+	eps7 = 4.46774 
+	eps8 = 3.94732 
+	eps9 = 3.61113 
+	eps10 = 4.00832 
+	eps11 = 4.01796 
+	eps12 = 3.48379 
+	eps13 = 3.75357 
+	eps14 = 3.92192 
+	eps15 = 4.09635 
+
+(Corresponding to run ID: 176)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 95.6198 (Solver)
+	Solver time = 00:02:29 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14233 
+	eps2 = 4.05975 
+	eps3 = 3.87258 
+	eps4 = 3.6051 
+	eps5 = 3.8673 
+	eps6 = 4.23263 
+	eps7 = 4.51411 
+	eps8 = 3.60484 
+	eps9 = 3.94999 
+	eps10 = 4.18913 
+	eps11 = 4.19215 
+	eps12 = 4.34317 
+	eps13 = 4.37644 
+	eps14 = 3.85477 
+	eps15 = 4.09006 
+
+(Corresponding to run ID: 177)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.2101 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.18498 
+	eps2 = 3.86734 
+	eps3 = 3.89043 
+	eps4 = 3.5889 
+	eps5 = 3.61146 
+	eps6 = 4.10942 
+	eps7 = 4.5483 
+	eps8 = 3.53536 
+	eps9 = 4.25546 
+	eps10 = 4.05588 
+	eps11 = 4.20953 
+	eps12 = 4.24163 
+	eps13 = 4.06823 
+	eps14 = 3.76391 
+	eps15 = 4.07956 
+
+(Corresponding to run ID: 178)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.2585 (Solver)
+	Solver time = 00:02:29 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.40979 
+	eps2 = 3.86734 
+	eps3 = 3.81299 
+	eps4 = 4.32782 
+	eps5 = 3.61146 
+	eps6 = 3.76307 
+	eps7 = 4.5483 
+	eps8 = 3.53536 
+	eps9 = 3.71266 
+	eps10 = 3.55395 
+	eps11 = 3.89985 
+	eps12 = 4.24163 
+	eps13 = 3.59182 
+	eps14 = 3.76391 
+	eps15 = 3.42135 
+
+(Corresponding to run ID: 179)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 95.8528 (Solver)
+	Solver time = 00:02:24 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.51856 
+	eps2 = 3.84317 
+	eps3 = 3.93528 
+	eps4 = 3.87892 
+	eps5 = 3.89194 
+	eps6 = 4.30112 
+	eps7 = 4.43029 
+	eps8 = 3.66882 
+	eps9 = 3.97525 
+	eps10 = 4.13632 
+	eps11 = 4.05916 
+	eps12 = 4.52483 
+	eps13 = 3.73325 
+	eps14 = 4.26022 
+	eps15 = 4.07705 
+
+(Corresponding to run ID: 180)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 92.5488 (Solver)
+	Solver time = 00:02:36 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.18205 
+	eps2 = 3.97673 
+	eps3 = 3.89888 
+	eps4 = 3.62652 
+	eps5 = 3.87738 
+	eps6 = 4.22373 
+	eps7 = 4.47501 
+	eps8 = 3.55278 
+	eps9 = 3.80326 
+	eps10 = 4.1424 
+	eps11 = 4.21326 
+	eps12 = 4.4049 
+	eps13 = 4.16141 
+	eps14 = 3.95602 
+	eps15 = 4.08329 
+
+(Corresponding to run ID: 181)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.9828 (Solver)
+	Solver time = 00:02:12 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24409 
+	eps2 = 4.04496 
+	eps3 = 4.16302 
+	eps4 = 3.69591 
+	eps5 = 3.93237 
+	eps6 = 4.1033 
+	eps7 = 4.45558 
+	eps8 = 3.6986 
+	eps9 = 3.60348 
+	eps10 = 4.06386 
+	eps11 = 4.02448 
+	eps12 = 4.21875 
+	eps13 = 3.71492 
+	eps14 = 4.238 
+	eps15 = 4.11426 
+
+(Corresponding to run ID: 182)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 95.2315 (Solver)
+	Solver time = 00:02:38 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24766 
+	eps2 = 3.80778 
+	eps3 = 4.18821 
+	eps4 = 3.56498 
+	eps5 = 4.02633 
+	eps6 = 4.23236 
+	eps7 = 4.55319 
+	eps8 = 3.51365 
+	eps9 = 4.28969 
+	eps10 = 4.02737 
+	eps11 = 4.23859 
+	eps12 = 3.71183 
+	eps13 = 3.78281 
+	eps14 = 3.72216 
+	eps15 = 4.12628 
+
+(Corresponding to run ID: 183)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.7905 (Solver)
+	Solver time = 00:02:15 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.95803 
+	eps2 = 3.90776 
+	eps3 = 4.51283 
+	eps4 = 3.56498 
+	eps5 = 4.02633 
+	eps6 = 4.23236 
+	eps7 = 3.96258 
+	eps8 = 4.33102 
+	eps9 = 4.10493 
+	eps10 = 4.02737 
+	eps11 = 4.23859 
+	eps12 = 4.10591 
+	eps13 = 3.78281 
+	eps14 = 3.72216 
+	eps15 = 4.12628 
+
+(Corresponding to run ID: 184)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 97.6167 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.52966 
+	eps2 = 3.90776 
+	eps3 = 4.51283 
+	eps4 = 4.09898 
+	eps5 = 4.02633 
+	eps6 = 4.00659 
+	eps7 = 3.96258 
+	eps8 = 4.33102 
+	eps9 = 4.10493 
+	eps10 = 3.51306 
+	eps11 = 4.23859 
+	eps12 = 4.11894 
+	eps13 = 3.83877 
+	eps14 = 3.72216 
+	eps15 = 4.12628 
+
+(Corresponding to run ID: 185)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 98.985 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:16 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.15067 
+	eps2 = 3.93156 
+	eps3 = 3.8807 
+	eps4 = 3.63483 
+	eps5 = 3.91146 
+	eps6 = 4.28525 
+	eps7 = 4.5482 
+	eps8 = 3.73746 
+	eps9 = 4.0296 
+	eps10 = 4.06319 
+	eps11 = 4.25283 
+	eps12 = 4.20355 
+	eps13 = 3.96616 
+	eps14 = 4.04456 
+	eps15 = 4.08141 
+
+(Corresponding to run ID: 186)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.4811 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.17585 
+	eps2 = 3.95491 
+	eps3 = 3.86168 
+	eps4 = 3.85503 
+	eps5 = 3.75696 
+	eps6 = 4.22318 
+	eps7 = 4.52323 
+	eps8 = 3.63712 
+	eps9 = 4.11281 
+	eps10 = 4.07346 
+	eps11 = 4.23491 
+	eps12 = 4.26517 
+	eps13 = 3.83252 
+	eps14 = 4.21732 
+	eps15 = 4.08415 
+
+(Corresponding to run ID: 187)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 92.3182 (Solver)
+	Solver time = 00:02:40 h
+	Parameter update time   = 00:00:26 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.16875 
+	eps2 = 3.87517 
+	eps3 = 3.89783 
+	eps4 = 3.58901 
+	eps5 = 3.96082 
+	eps6 = 4.26267 
+	eps7 = 4.54318 
+	eps8 = 3.57826 
+	eps9 = 4.02448 
+	eps10 = 4.04066 
+	eps11 = 4.2303 
+	eps12 = 4.44168 
+	eps13 = 4.41392 
+	eps14 = 3.77554 
+	eps15 = 4.07883 
+
+(Corresponding to run ID: 188)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.356 (Solver)
+	Solver time = 00:02:32 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21652 
+	eps2 = 3.95532 
+	eps3 = 3.87665 
+	eps4 = 3.65843 
+	eps5 = 3.99704 
+	eps6 = 4.31415 
+	eps7 = 4.5098 
+	eps8 = 3.7759 
+	eps9 = 4.1897 
+	eps10 = 4.11842 
+	eps11 = 4.23993 
+	eps12 = 3.8901 
+	eps13 = 3.59643 
+	eps14 = 4.19016 
+	eps15 = 4.09297 
+
+(Corresponding to run ID: 189)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 95.7462 (Solver)
+	Solver time = 00:02:33 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24551 
+	eps2 = 3.95508 
+	eps3 = 3.94002 
+	eps4 = 3.95228 
+	eps5 = 3.94444 
+	eps6 = 4.00783 
+	eps7 = 4.46075 
+	eps8 = 3.57441 
+	eps9 = 4.11836 
+	eps10 = 4.15114 
+	eps11 = 3.9529 
+	eps12 = 3.86454 
+	eps13 = 3.77718 
+	eps14 = 3.8538 
+	eps15 = 4.0992 
+
+(Corresponding to run ID: 190)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 98.284 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.22337 
+	eps2 = 3.76269 
+	eps3 = 4.0527 
+	eps4 = 3.56124 
+	eps5 = 4.01879 
+	eps6 = 4.0896 
+	eps7 = 4.51756 
+	eps8 = 3.76183 
+	eps9 = 3.71513 
+	eps10 = 4.05441 
+	eps11 = 4.00122 
+	eps12 = 4.13965 
+	eps13 = 3.77453 
+	eps14 = 3.77085 
+	eps15 = 4.12459 
+
+(Corresponding to run ID: 191)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.9264 (Solver)
+	Solver time = 00:02:38 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.22337 
+	eps2 = 3.47383 
+	eps3 = 4.0527 
+	eps4 = 4.26669 
+	eps5 = 3.66326 
+	eps6 = 3.51644 
+	eps7 = 4.51756 
+	eps8 = 3.9588 
+	eps9 = 4.53215 
+	eps10 = 4.40229 
+	eps11 = 4.37586 
+	eps12 = 3.84297 
+	eps13 = 4.41859 
+	eps14 = 4.19737 
+	eps15 = 4.12459 
+
+(Corresponding to run ID: 192)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.8122 (Solver)
+	Solver time = 00:02:40 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.15851 
+	eps2 = 4.0092 
+	eps3 = 3.88165 
+	eps4 = 3.60343 
+	eps5 = 3.69081 
+	eps6 = 4.11953 
+	eps7 = 4.53856 
+	eps8 = 3.58899 
+	eps9 = 4.06094 
+	eps10 = 4.13171 
+	eps11 = 4.20661 
+	eps12 = 4.30478 
+	eps13 = 4.32116 
+	eps14 = 3.82324 
+	eps15 = 4.08089 
+
+(Corresponding to run ID: 193)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.4909 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.15151 
+	eps2 = 3.95813 
+	eps3 = 3.81107 
+	eps4 = 3.59332 
+	eps5 = 3.89252 
+	eps6 = 4.30081 
+	eps7 = 4.53308 
+	eps8 = 3.56948 
+	eps9 = 4.05655 
+	eps10 = 4.27071 
+	eps11 = 4.21183 
+	eps12 = 4.24182 
+	eps13 = 3.8953 
+	eps14 = 3.87982 
+	eps15 = 4.09451 
+
+(Corresponding to run ID: 194)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.9135 (Solver)
+	Solver time = 00:02:33 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.09851 
+	eps2 = 3.89877 
+	eps3 = 3.84459 
+	eps4 = 3.75805 
+	eps5 = 3.93682 
+	eps6 = 4.273 
+	eps7 = 4.53712 
+	eps8 = 3.68589 
+	eps9 = 3.99698 
+	eps10 = 4.10301 
+	eps11 = 4.27573 
+	eps12 = 4.43852 
+	eps13 = 3.89433 
+	eps14 = 3.9379 
+	eps15 = 4.09225 
+
+(Corresponding to run ID: 195)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.7712 (Solver)
+	Solver time = 00:02:30 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.09851 
+	eps2 = 3.46219 
+	eps3 = 3.84459 
+	eps4 = 3.44525 
+	eps5 = 3.93682 
+	eps6 = 4.273 
+	eps7 = 3.87428 
+	eps8 = 3.68589 
+	eps9 = 4.02524 
+	eps10 = 4.41868 
+	eps11 = 4.27573 
+	eps12 = 3.51689 
+	eps13 = 3.89433 
+	eps14 = 3.76336 
+	eps15 = 4.09225 
+
+(Corresponding to run ID: 196)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.0963 (Solver)
+	Solver time = 00:02:30 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21128 
+	eps2 = 4.00963 
+	eps3 = 3.87674 
+	eps4 = 3.64315 
+	eps5 = 4.04126 
+	eps6 = 4.31062 
+	eps7 = 4.48803 
+	eps8 = 3.79661 
+	eps9 = 4.29169 
+	eps10 = 4.15999 
+	eps11 = 4.24879 
+	eps12 = 4.24977 
+	eps13 = 3.69986 
+	eps14 = 3.96621 
+	eps15 = 4.08043 
+
+(Corresponding to run ID: 197)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.3926 (Solver)
+	Solver time = 00:02:29 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24442 
+	eps2 = 3.8388 
+	eps3 = 3.93218 
+	eps4 = 3.77379 
+	eps5 = 3.95189 
+	eps6 = 3.91193 
+	eps7 = 4.45311 
+	eps8 = 3.55338 
+	eps9 = 4.14364 
+	eps10 = 4.20909 
+	eps11 = 4.1866 
+	eps12 = 3.79451 
+	eps13 = 3.67231 
+	eps14 = 3.81688 
+	eps15 = 4.15756 
+
+(Corresponding to run ID: 198)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 96.3617 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.2146 
+	eps2 = 3.87905 
+	eps3 = 3.95266 
+	eps4 = 3.6447 
+	eps5 = 3.95594 
+	eps6 = 4.24458 
+	eps7 = 4.51498 
+	eps8 = 3.56537 
+	eps9 = 3.69236 
+	eps10 = 4.07 
+	eps11 = 4.08557 
+	eps12 = 4.14722 
+	eps13 = 3.76582 
+	eps14 = 3.99724 
+	eps15 = 4.14539 
+
+(Corresponding to run ID: 199)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.8887 (Solver)
+	Solver time = 00:02:14 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.54155 
+	eps2 = 3.87905 
+	eps3 = 3.95266 
+	eps4 = 3.6447 
+	eps5 = 3.95594 
+	eps6 = 4.24458 
+	eps7 = 4.51498 
+	eps8 = 3.56537 
+	eps9 = 3.43781 
+	eps10 = 3.89827 
+	eps11 = 3.9149 
+	eps12 = 4.14722 
+	eps13 = 3.76582 
+	eps14 = 3.99724 
+	eps15 = 4.58854 
+
+(Corresponding to run ID: 200)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 97.1308 (Solver)
+	Solver time = 00:01:57 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.17214 
+	eps2 = 3.97699 
+	eps3 = 3.87492 
+	eps4 = 3.59619 
+	eps5 = 3.75687 
+	eps6 = 4.21187 
+	eps7 = 4.52713 
+	eps8 = 3.59894 
+	eps9 = 3.98975 
+	eps10 = 4.07041 
+	eps11 = 4.2072 
+	eps12 = 4.33815 
+	eps13 = 4.07186 
+	eps14 = 3.79422 
+	eps15 = 4.07985 
+
+(Corresponding to run ID: 201)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.9296 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14431 
+	eps2 = 4.02967 
+	eps3 = 3.84899 
+	eps4 = 3.87555 
+	eps5 = 3.69417 
+	eps6 = 4.24738 
+	eps7 = 4.51755 
+	eps8 = 3.768 
+	eps9 = 4.01614 
+	eps10 = 4.29514 
+	eps11 = 4.24769 
+	eps12 = 4.2751 
+	eps13 = 3.97026 
+	eps14 = 4.25025 
+	eps15 = 4.08675 
+
+(Corresponding to run ID: 202)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.1849 (Solver)
+	Solver time = 00:02:31 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.09807 
+	eps2 = 3.91891 
+	eps3 = 3.88811 
+	eps4 = 3.61307 
+	eps5 = 3.94793 
+	eps6 = 4.27171 
+	eps7 = 4.49892 
+	eps8 = 3.6661 
+	eps9 = 4.01708 
+	eps10 = 4.0739 
+	eps11 = 4.27076 
+	eps12 = 4.37039 
+	eps13 = 4.01643 
+	eps14 = 4.05882 
+	eps15 = 4.08021 
+
+(Corresponding to run ID: 203)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.8099 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.09807 
+	eps2 = 3.91891 
+	eps3 = 3.88811 
+	eps4 = 3.89594 
+	eps5 = 3.83209 
+	eps6 = 4.16355 
+	eps7 = 3.40137 
+	eps8 = 4.08188 
+	eps9 = 4.01708 
+	eps10 = 3.9896 
+	eps11 = 4.31813 
+	eps12 = 4.26842 
+	eps13 = 4.10964 
+	eps14 = 4.05882 
+	eps15 = 4.57076 
+
+(Corresponding to run ID: 204)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.4877 (Solver)
+	Solver time = 00:02:22 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21509 
+	eps2 = 3.94851 
+	eps3 = 3.87777 
+	eps4 = 3.93774 
+	eps5 = 3.96267 
+	eps6 = 4.29024 
+	eps7 = 4.45669 
+	eps8 = 3.57969 
+	eps9 = 4.1566 
+	eps10 = 4.21308 
+	eps11 = 4.21957 
+	eps12 = 4.37774 
+	eps13 = 4.129 
+	eps14 = 4.01613 
+	eps15 = 4.0896 
+
+(Corresponding to run ID: 205)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.6652 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21509 
+	eps2 = 3.72709 
+	eps3 = 3.87777 
+	eps4 = 3.44119 
+	eps5 = 3.96267 
+	eps6 = 4.29024 
+	eps7 = 4.45669 
+	eps8 = 4.17014 
+	eps9 = 3.47749 
+	eps10 = 3.75864 
+	eps11 = 4.21957 
+	eps12 = 4.37774 
+	eps13 = 4.50815 
+	eps14 = 4.01613 
+	eps15 = 4.0896 
+
+(Corresponding to run ID: 206)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 96.1383 (Solver)
+	Solver time = 00:02:12 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.24604 
+	eps2 = 3.72783 
+	eps3 = 3.97646 
+	eps4 = 3.8816 
+	eps5 = 3.91572 
+	eps6 = 4.12588 
+	eps7 = 4.48161 
+	eps8 = 3.49129 
+	eps9 = 3.91294 
+	eps10 = 4.12804 
+	eps11 = 3.94031 
+	eps12 = 3.73343 
+	eps13 = 3.78385 
+	eps14 = 3.95868 
+	eps15 = 4.1429 
+
+(Corresponding to run ID: 207)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.8822 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.76965 
+	eps2 = 3.72783 
+	eps3 = 3.84398 
+	eps4 = 3.8816 
+	eps5 = 3.91572 
+	eps6 = 4.12588 
+	eps7 = 4.48161 
+	eps8 = 3.49129 
+	eps9 = 3.91294 
+	eps10 = 4.12804 
+	eps11 = 3.51944 
+	eps12 = 3.73343 
+	eps13 = 4.44268 
+	eps14 = 4.11099 
+	eps15 = 4.1429 
+
+(Corresponding to run ID: 208)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 95.5941 (Solver)
+	Solver time = 00:02:12 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.17464 
+	eps2 = 4.0106 
+	eps3 = 3.87624 
+	eps4 = 3.6024 
+	eps5 = 3.76981 
+	eps6 = 4.28547 
+	eps7 = 4.54631 
+	eps8 = 3.56092 
+	eps9 = 4.06756 
+	eps10 = 4.06351 
+	eps11 = 4.26477 
+	eps12 = 4.23016 
+	eps13 = 3.88621 
+	eps14 = 3.9883 
+	eps15 = 4.08206 
+
+(Corresponding to run ID: 209)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.9776 (Solver)
+	Solver time = 00:02:18 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.17857 
+	eps2 = 4.01714 
+	eps3 = 3.8873 
+	eps4 = 3.59802 
+	eps5 = 3.83846 
+	eps6 = 4.15163 
+	eps7 = 4.53428 
+	eps8 = 3.58521 
+	eps9 = 3.95912 
+	eps10 = 4.07223 
+	eps11 = 4.194 
+	eps12 = 4.28553 
+	eps13 = 4.12532 
+	eps14 = 3.85063 
+	eps15 = 4.08659 
+
+(Corresponding to run ID: 210)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.5995 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14322 
+	eps2 = 4.05684 
+	eps3 = 3.84915 
+	eps4 = 3.85575 
+	eps5 = 3.78933 
+	eps6 = 4.24606 
+	eps7 = 4.51656 
+	eps8 = 3.65809 
+	eps9 = 3.96527 
+	eps10 = 4.26687 
+	eps11 = 4.20513 
+	eps12 = 4.31588 
+	eps13 = 4.25987 
+	eps14 = 4.05707 
+	eps15 = 4.08849 
+
+(Corresponding to run ID: 211)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 92.7731 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.16973 
+	eps2 = 3.83099 
+	eps3 = 3.90605 
+	eps4 = 3.58035 
+	eps5 = 3.92456 
+	eps6 = 4.03263 
+	eps7 = 4.53737 
+	eps8 = 3.51745 
+	eps9 = 3.706 
+	eps10 = 4.03567 
+	eps11 = 3.99199 
+	eps12 = 4.2503 
+	eps13 = 4.20528 
+	eps14 = 3.77373 
+	eps15 = 4.08645 
+
+(Corresponding to run ID: 212)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.5391 (Solver)
+	Solver time = 00:02:15 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.2448 
+	eps2 = 3.90368 
+	eps3 = 3.99526 
+	eps4 = 3.84673 
+	eps5 = 3.92393 
+	eps6 = 3.80296 
+	eps7 = 4.47057 
+	eps8 = 3.50602 
+	eps9 = 3.65112 
+	eps10 = 4.11769 
+	eps11 = 4.19873 
+	eps12 = 3.83288 
+	eps13 = 3.59641 
+	eps14 = 4.16297 
+	eps15 = 4.15937 
+
+(Corresponding to run ID: 213)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 97.1206 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:23 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14359 
+	eps2 = 4.08161 
+	eps3 = 3.82836 
+	eps4 = 3.92622 
+	eps5 = 3.93969 
+	eps6 = 4.30472 
+	eps7 = 4.45321 
+	eps8 = 3.73967 
+	eps9 = 4.05262 
+	eps10 = 4.22936 
+	eps11 = 4.23518 
+	eps12 = 4.2816 
+	eps13 = 3.76474 
+	eps14 = 4.27093 
+	eps15 = 4.09471 
+
+(Corresponding to run ID: 214)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.3316 (Solver)
+	Solver time = 00:02:16 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14964 
+	eps2 = 3.89332 
+	eps3 = 3.88896 
+	eps4 = 3.90111 
+	eps5 = 3.82659 
+	eps6 = 4.23258 
+	eps7 = 4.49112 
+	eps8 = 3.71453 
+	eps9 = 4.04423 
+	eps10 = 4.26904 
+	eps11 = 4.25075 
+	eps12 = 4.27313 
+	eps13 = 3.89352 
+	eps14 = 3.76723 
+	eps15 = 4.07991 
+
+(Corresponding to run ID: 215)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 92.3702 (Solver)
+	Solver time = 00:02:11 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14479 
+	eps2 = 4.04341 
+	eps3 = 3.85383 
+	eps4 = 3.78332 
+	eps5 = 4.01241 
+	eps6 = 4.30979 
+	eps7 = 4.51856 
+	eps8 = 3.76492 
+	eps9 = 3.96857 
+	eps10 = 4.19659 
+	eps11 = 4.28456 
+	eps12 = 4.24677 
+	eps13 = 4.20194 
+	eps14 = 4.11504 
+	eps15 = 4.08581 
+
+(Corresponding to run ID: 216)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.8304 (Solver)
+	Solver time = 00:02:47 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14717 
+	eps2 = 4.03303 
+	eps3 = 3.86936 
+	eps4 = 3.64256 
+	eps5 = 3.9436 
+	eps6 = 4.30398 
+	eps7 = 4.524 
+	eps8 = 3.79242 
+	eps9 = 3.9585 
+	eps10 = 4.15344 
+	eps11 = 4.24115 
+	eps12 = 4.32341 
+	eps13 = 4.16157 
+	eps14 = 4.01913 
+	eps15 = 4.08746 
+
+(Corresponding to run ID: 217)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.1728 (Solver)
+	Solver time = 00:02:09 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14305 
+	eps2 = 4.03637 
+	eps3 = 3.86091 
+	eps4 = 3.86212 
+	eps5 = 3.78591 
+	eps6 = 4.23636 
+	eps7 = 4.51522 
+	eps8 = 3.68499 
+	eps9 = 4.00725 
+	eps10 = 4.22897 
+	eps11 = 4.20183 
+	eps12 = 4.33098 
+	eps13 = 4.22131 
+	eps14 = 4.11502 
+	eps15 = 4.08767 
+
+(Corresponding to run ID: 218)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.2435 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.1439 
+	eps2 = 4.05228 
+	eps3 = 3.84903 
+	eps4 = 3.85894 
+	eps5 = 3.70284 
+	eps6 = 4.24721 
+	eps7 = 4.51712 
+	eps8 = 3.75618 
+	eps9 = 3.99114 
+	eps10 = 4.28798 
+	eps11 = 4.24723 
+	eps12 = 4.28089 
+	eps13 = 4.03318 
+	eps14 = 4.22003 
+	eps15 = 4.08704 
+
+(Corresponding to run ID: 219)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.5513 (Solver)
+	Solver time = 00:02:19 h
+	Parameter update time   = 00:00:14 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21677 
+	eps2 = 3.70561 
+	eps3 = 4.07118 
+	eps4 = 3.5763 
+	eps5 = 3.65658 
+	eps6 = 4.10452 
+	eps7 = 4.53157 
+	eps8 = 3.51045 
+	eps9 = 3.66043 
+	eps10 = 4.02126 
+	eps11 = 4.09916 
+	eps12 = 3.8694 
+	eps13 = 3.9645 
+	eps14 = 3.7663 
+	eps15 = 4.14676 
+
+(Corresponding to run ID: 220)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.6986 (Solver)
+	Solver time = 00:02:21 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21956 
+	eps2 = 4.0338 
+	eps3 = 3.87559 
+	eps4 = 3.93251 
+	eps5 = 3.94051 
+	eps6 = 4.30149 
+	eps7 = 4.50583 
+	eps8 = 3.74389 
+	eps9 = 4.14963 
+	eps10 = 4.25271 
+	eps11 = 4.22954 
+	eps12 = 4.28132 
+	eps13 = 3.80183 
+	eps14 = 4.25762 
+	eps15 = 4.0916 
+
+(Corresponding to run ID: 221)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.9614 (Solver)
+	Solver time = 00:02:39 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.20864 
+	eps2 = 4.09082 
+	eps3 = 3.8519 
+	eps4 = 3.93163 
+	eps5 = 3.95186 
+	eps6 = 4.30701 
+	eps7 = 4.45144 
+	eps8 = 3.77433 
+	eps9 = 4.16381 
+	eps10 = 4.28681 
+	eps11 = 4.24959 
+	eps12 = 4.31434 
+	eps13 = 3.63183 
+	eps14 = 4.30046 
+	eps15 = 4.09459 
+
+(Corresponding to run ID: 222)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.0511 (Solver)
+	Solver time = 00:02:29 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.09044 
+	eps2 = 4.05851 
+	eps3 = 3.83968 
+	eps4 = 3.67204 
+	eps5 = 3.93439 
+	eps6 = 4.30421 
+	eps7 = 4.52144 
+	eps8 = 3.79399 
+	eps9 = 3.95964 
+	eps10 = 4.18891 
+	eps11 = 4.26148 
+	eps12 = 4.31738 
+	eps13 = 4.13062 
+	eps14 = 4.24668 
+	eps15 = 4.09372 
+
+(Corresponding to run ID: 223)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 95.2798 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:21 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14735 
+	eps2 = 4.02489 
+	eps3 = 3.8399 
+	eps4 = 3.84512 
+	eps5 = 4.0116 
+	eps6 = 4.31098 
+	eps7 = 4.46322 
+	eps8 = 3.75385 
+	eps9 = 4.01556 
+	eps10 = 4.16127 
+	eps11 = 4.2883 
+	eps12 = 4.23417 
+	eps13 = 3.76363 
+	eps14 = 4.20661 
+	eps15 = 4.09096 
+
+(Corresponding to run ID: 224)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.9826 (Solver)
+	Solver time = 00:02:36 h
+	Parameter update time   = 00:00:09 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14331 
+	eps2 = 4.05947 
+	eps3 = 3.8344 
+	eps4 = 3.91201 
+	eps5 = 3.87654 
+	eps6 = 4.27187 
+	eps7 = 4.4795 
+	eps8 = 3.67194 
+	eps9 = 3.97244 
+	eps10 = 4.23393 
+	eps11 = 4.2297 
+	eps12 = 4.29004 
+	eps13 = 3.8192 
+	eps14 = 4.11497 
+	eps15 = 4.09074 
+
+(Corresponding to run ID: 225)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.2749 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14682 
+	eps2 = 3.93811 
+	eps3 = 3.87494 
+	eps4 = 3.89752 
+	eps5 = 3.81582 
+	eps6 = 4.23701 
+	eps7 = 4.49503 
+	eps8 = 3.71197 
+	eps9 = 3.97263 
+	eps10 = 4.26703 
+	eps11 = 4.22391 
+	eps12 = 4.30115 
+	eps13 = 4.11159 
+	eps14 = 3.86447 
+	eps15 = 4.0862 
+
+(Corresponding to run ID: 226)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 92.9748 (Solver)
+	Solver time = 00:02:28 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14866 
+	eps2 = 4.0032 
+	eps3 = 3.87407 
+	eps4 = 3.72811 
+	eps5 = 4.00774 
+	eps6 = 4.26176 
+	eps7 = 4.5335 
+	eps8 = 3.76162 
+	eps9 = 3.99744 
+	eps10 = 4.23647 
+	eps11 = 4.28295 
+	eps12 = 4.2449 
+	eps13 = 3.88158 
+	eps14 = 4.11353 
+	eps15 = 4.08172 
+
+(Corresponding to run ID: 227)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.566 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:23 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14528 
+	eps2 = 4.03106 
+	eps3 = 3.85294 
+	eps4 = 3.67126 
+	eps5 = 3.93312 
+	eps6 = 4.26942 
+	eps7 = 4.52283 
+	eps8 = 3.79028 
+	eps9 = 3.99202 
+	eps10 = 4.15889 
+	eps11 = 4.24644 
+	eps12 = 4.27688 
+	eps13 = 4.10308 
+	eps14 = 4.09523 
+	eps15 = 4.08711 
+
+(Corresponding to run ID: 228)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 95.2849 (Solver)
+	Solver time = 00:02:51 h
+	Parameter update time   = 00:00:16 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.16736 
+	eps2 = 3.9952 
+	eps3 = 3.88311 
+	eps4 = 3.90886 
+	eps5 = 3.94639 
+	eps6 = 4.30173 
+	eps7 = 4.46475 
+	eps8 = 3.71545 
+	eps9 = 4.07799 
+	eps10 = 4.22137 
+	eps11 = 4.23624 
+	eps12 = 4.33931 
+	eps13 = 3.82813 
+	eps14 = 3.8352 
+	eps15 = 4.09365 
+
+(Corresponding to run ID: 229)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.39 (Solver)
+	Solver time = 00:02:20 h
+	Parameter update time   = 00:00:23 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.58952 
+	eps2 = 3.75884 
+	eps3 = 4.56434 
+	eps4 = 3.90886 
+	eps5 = 4.27924 
+	eps6 = 4.30173 
+	eps7 = 3.7438 
+	eps8 = 3.71545 
+	eps9 = 4.07799 
+	eps10 = 4.22137 
+	eps11 = 4.23624 
+	eps12 = 4.33931 
+	eps13 = 3.82813 
+	eps14 = 3.8352 
+	eps15 = 4.09365 
+
+(Corresponding to run ID: 230)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.5897 (Solver)
+	Solver time = 00:02:05 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.18362 
+	eps2 = 4.01741 
+	eps3 = 3.85653 
+	eps4 = 3.89152 
+	eps5 = 3.95513 
+	eps6 = 4.31008 
+	eps7 = 4.50747 
+	eps8 = 3.80419 
+	eps9 = 4.0528 
+	eps10 = 4.15011 
+	eps11 = 4.27708 
+	eps12 = 4.1998 
+	eps13 = 3.74522 
+	eps14 = 4.30045 
+	eps15 = 4.0867 
+
+(Corresponding to run ID: 231)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.9126 (Solver)
+	Solver time = 00:02:18 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.64348 
+	eps2 = 4.01741 
+	eps3 = 4.14988 
+	eps4 = 3.89152 
+	eps5 = 3.95513 
+	eps6 = 4.31008 
+	eps7 = 3.43471 
+	eps8 = 3.40931 
+	eps9 = 3.51933 
+	eps10 = 4.15011 
+	eps11 = 4.27708 
+	eps12 = 3.93848 
+	eps13 = 4.43617 
+	eps14 = 4.26526 
+	eps15 = 4.0867 
+
+(Corresponding to run ID: 232)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 98.2969 (Solver)
+	Solver time = 00:02:37 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.09885 
+	eps2 = 4.05085 
+	eps3 = 3.83213 
+	eps4 = 3.88427 
+	eps5 = 3.95661 
+	eps6 = 4.31018 
+	eps7 = 4.47096 
+	eps8 = 3.79153 
+	eps9 = 3.97493 
+	eps10 = 4.1938 
+	eps11 = 4.28856 
+	eps12 = 4.24824 
+	eps13 = 3.77423 
+	eps14 = 4.27108 
+	eps15 = 4.09102 
+
+(Corresponding to run ID: 233)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.7975 (Solver)
+	Solver time = 00:02:09 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.16404 
+	eps2 = 4.02684 
+	eps3 = 3.84939 
+	eps4 = 3.90971 
+	eps5 = 3.98127 
+	eps6 = 4.30211 
+	eps7 = 4.50154 
+	eps8 = 3.74482 
+	eps9 = 4.03831 
+	eps10 = 4.18718 
+	eps11 = 4.27931 
+	eps12 = 4.2539 
+	eps13 = 3.76407 
+	eps14 = 4.24023 
+	eps15 = 4.09139 
+
+(Corresponding to run ID: 234)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.7084 (Solver)
+	Solver time = 00:02:17 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.19147 
+	eps2 = 4.03878 
+	eps3 = 3.83439 
+	eps4 = 3.9272 
+	eps5 = 3.9404 
+	eps6 = 4.30282 
+	eps7 = 4.4815 
+	eps8 = 3.74101 
+	eps9 = 4.09472 
+	eps10 = 4.23849 
+	eps11 = 4.23364 
+	eps12 = 4.28138 
+	eps13 = 3.7873 
+	eps14 = 4.26149 
+	eps15 = 4.09181 
+
+(Corresponding to run ID: 235)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.879 (Solver)
+	Solver time = 00:02:12 h
+	Parameter update time   = 00:00:23 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14808 
+	eps2 = 3.95928 
+	eps3 = 3.88754 
+	eps4 = 3.84454 
+	eps5 = 3.92505 
+	eps6 = 4.24857 
+	eps7 = 4.53175 
+	eps8 = 3.73177 
+	eps9 = 4.0098 
+	eps10 = 4.13908 
+	eps11 = 4.25966 
+	eps12 = 4.21172 
+	eps13 = 3.84794 
+	eps14 = 3.77458 
+	eps15 = 4.08283 
+
+(Corresponding to run ID: 236)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 92.8256 (Solver)
+	Solver time = 00:02:13 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.21698 
+	eps2 = 4.04449 
+	eps3 = 3.8726 
+	eps4 = 3.91889 
+	eps5 = 3.95962 
+	eps6 = 4.30881 
+	eps7 = 4.50039 
+	eps8 = 3.80369 
+	eps9 = 4.1474 
+	eps10 = 4.16619 
+	eps11 = 4.26238 
+	eps12 = 4.30448 
+	eps13 = 3.69267 
+	eps14 = 4.29777 
+	eps15 = 4.08947 
+
+(Corresponding to run ID: 237)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.5562 (Solver)
+	Solver time = 00:02:24 h
+	Parameter update time   = 00:00:10 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.49054 
+	eps2 = 4.04449 
+	eps3 = 4.59928 
+	eps4 = 3.91889 
+	eps5 = 4.58684 
+	eps6 = 4.30881 
+	eps7 = 4.25866 
+	eps8 = 3.74751 
+	eps9 = 4.1474 
+	eps10 = 4.16619 
+	eps11 = 4.26238 
+	eps12 = 4.30448 
+	eps13 = 4.38512 
+	eps14 = 4.4769 
+	eps15 = 4.08947 
+
+(Corresponding to run ID: 238)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 93.5964 (Solver)
+	Solver time = 00:02:34 h
+	Parameter update time   = 00:00:12 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.60928 
+	eps2 = 3.89033 
+	eps3 = 4.45028 
+	eps4 = 3.91889 
+	eps5 = 4.58684 
+	eps6 = 4.30881 
+	eps7 = 3.41867 
+	eps8 = 3.74751 
+	eps9 = 4.1474 
+	eps10 = 4.16619 
+	eps11 = 4.44548 
+	eps12 = 4.30448 
+	eps13 = 4.0376 
+	eps14 = 3.77092 
+	eps15 = 4.27368 
+
+(Corresponding to run ID: 239)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.4359 (Solver)
+	Solver time = 00:02:33 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.13272 
+	eps2 = 4.08952 
+	eps3 = 3.81572 
+	eps4 = 3.92198 
+	eps5 = 3.93279 
+	eps6 = 4.30984 
+	eps7 = 4.45558 
+	eps8 = 3.79289 
+	eps9 = 3.96517 
+	eps10 = 4.24615 
+	eps11 = 4.245 
+	eps12 = 4.28158 
+	eps13 = 3.77314 
+	eps14 = 4.27794 
+	eps15 = 4.0946 
+
+(Corresponding to run ID: 240)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.2115 (Solver)
+	Solver time = 00:02:34 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.09201 
+	eps2 = 4.09165 
+	eps3 = 3.8273 
+	eps4 = 3.89947 
+	eps5 = 3.92313 
+	eps6 = 4.31017 
+	eps7 = 4.47728 
+	eps8 = 3.79399 
+	eps9 = 3.96036 
+	eps10 = 4.21324 
+	eps11 = 4.28857 
+	eps12 = 4.277 
+	eps13 = 3.77719 
+	eps14 = 4.27198 
+	eps15 = 4.09248 
+
+(Corresponding to run ID: 241)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.4365 (Solver)
+	Solver time = 00:02:22 h
+	Parameter update time   = 00:00:18 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.5823 
+	eps2 = 4.51675 
+	eps3 = 3.8273 
+	eps4 = 3.55469 
+	eps5 = 3.60271 
+	eps6 = 4.31017 
+	eps7 = 4.04409 
+	eps8 = 4.56839 
+	eps9 = 4.00208 
+	eps10 = 4.21324 
+	eps11 = 4.28857 
+	eps12 = 3.58347 
+	eps13 = 3.4746 
+	eps14 = 4.27198 
+	eps15 = 4.33666 
+
+(Corresponding to run ID: 242)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 96.7144 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:19 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.4627 
+	eps2 = 3.90089 
+	eps3 = 3.8273 
+	eps4 = 3.55469 
+	eps5 = 3.60271 
+	eps6 = 4.25049 
+	eps7 = 4.04409 
+	eps8 = 4.56839 
+	eps9 = 4.00208 
+	eps10 = 4.21324 
+	eps11 = 3.42712 
+	eps12 = 4.11666 
+	eps13 = 3.4746 
+	eps14 = 4.27198 
+	eps15 = 4.33666 
+
+(Corresponding to run ID: 243)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 96.2985 (Solver)
+	Solver time = 00:02:36 h
+	Parameter update time   = 00:00:17 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.4627 
+	eps2 = 3.90089 
+	eps3 = 4.55469 
+	eps4 = 3.55469 
+	eps5 = 3.85007 
+	eps6 = 4.25049 
+	eps7 = 4.04409 
+	eps8 = 4.56839 
+	eps9 = 4.00208 
+	eps10 = 4.21324 
+	eps11 = 4.51518 
+	eps12 = 4.11666 
+	eps13 = 3.4746 
+	eps14 = 4.16303 
+	eps15 = 4.33666 
+
+(Corresponding to run ID: 244)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 98.311 (Solver)
+	Solver time = 00:02:35 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.16705 
+	eps2 = 4.06912 
+	eps3 = 3.87576 
+	eps4 = 3.94964 
+	eps5 = 3.96684 
+	eps6 = 4.30255 
+	eps7 = 4.48776 
+	eps8 = 3.74214 
+	eps9 = 4.15863 
+	eps10 = 4.19104 
+	eps11 = 4.27924 
+	eps12 = 4.28341 
+	eps13 = 3.62529 
+	eps14 = 4.25885 
+	eps15 = 4.09478 
+
+(Corresponding to run ID: 245)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.2976 (Solver)
+	Solver time = 00:02:32 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.42621 
+	eps2 = 3.76218 
+	eps3 = 3.87576 
+	eps4 = 3.94964 
+	eps5 = 4.06464 
+	eps6 = 3.77913 
+	eps7 = 3.53259 
+	eps8 = 4.27299 
+	eps9 = 4.15863 
+	eps10 = 3.76894 
+	eps11 = 3.55948 
+	eps12 = 4.28341 
+	eps13 = 3.62529 
+	eps14 = 4.25885 
+	eps15 = 3.80186 
+
+(Corresponding to run ID: 246)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 99.7955 (Solver)
+	Solver time = 00:02:25 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 3.42621 
+	eps2 = 3.76218 
+	eps3 = 3.87576 
+	eps4 = 4.11649 
+	eps5 = 4.06464 
+	eps6 = 4.13467 
+	eps7 = 3.53259 
+	eps8 = 3.5431 
+	eps9 = 4.15863 
+	eps10 = 3.76894 
+	eps11 = 3.68056 
+	eps12 = 4.28341 
+	eps13 = 3.62529 
+	eps14 = 4.39883 
+	eps15 = 3.80186 
+
+(Corresponding to run ID: 247)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 99.8363 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.11039 
+	eps2 = 4.08973 
+	eps3 = 3.80525 
+	eps4 = 3.91486 
+	eps5 = 3.91742 
+	eps6 = 4.30984 
+	eps7 = 4.46747 
+	eps8 = 3.79366 
+	eps9 = 3.96137 
+	eps10 = 4.2861 
+	eps11 = 4.25425 
+	eps12 = 4.28156 
+	eps13 = 3.77722 
+	eps14 = 4.30684 
+	eps15 = 4.09458 
+
+(Corresponding to run ID: 248)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.2045 (Solver)
+	Solver time = 00:02:23 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.11039 
+	eps2 = 3.94844 
+	eps3 = 3.80525 
+	eps4 = 4.35935 
+	eps5 = 3.91742 
+	eps6 = 4.41561 
+	eps7 = 3.8402 
+	eps8 = 3.79366 
+	eps9 = 3.44053 
+	eps10 = 4.47829 
+	eps11 = 4.25425 
+	eps12 = 3.6046 
+	eps13 = 4.46578 
+	eps14 = 3.80448 
+	eps15 = 4.09458 
+
+(Corresponding to run ID: 249)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 95.3774 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.11796 
+	eps2 = 4.08866 
+	eps3 = 3.82784 
+	eps4 = 3.91905 
+	eps5 = 3.92883 
+	eps6 = 4.30867 
+	eps7 = 4.45762 
+	eps8 = 3.77245 
+	eps9 = 4.00684 
+	eps10 = 4.21509 
+	eps11 = 4.23991 
+	eps12 = 4.28025 
+	eps13 = 3.76972 
+	eps14 = 4.27112 
+	eps15 = 4.09268 
+
+(Corresponding to run ID: 250)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.3647 (Solver)
+	Solver time = 00:02:27 h
+	Parameter update time   = 00:00:13 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.36777 
+	eps2 = 4.55455 
+	eps3 = 3.82784 
+	eps4 = 3.91905 
+	eps5 = 3.92883 
+	eps6 = 4.22781 
+	eps7 = 4.45762 
+	eps8 = 4.34985 
+	eps9 = 3.47343 
+	eps10 = 4.21509 
+	eps11 = 4.32442 
+	eps12 = 4.28025 
+	eps13 = 3.76972 
+	eps14 = 4.52204 
+	eps15 = 3.6491 
+
+(Corresponding to run ID: 251)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 92.4223 (Solver)
+	Solver time = 00:02:18 h
+	Parameter update time   = 00:00:15 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.36777 
+	eps2 = 4.55455 
+	eps3 = 3.82784 
+	eps4 = 3.91905 
+	eps5 = 3.92883 
+	eps6 = 3.9781 
+	eps7 = 4.59408 
+	eps8 = 4.34985 
+	eps9 = 4.23605 
+	eps10 = 4.21509 
+	eps11 = 4.406 
+	eps12 = 4.28025 
+	eps13 = 3.76972 
+	eps14 = 3.86546 
+	eps15 = 3.6491 
+
+(Corresponding to run ID: 252)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 94.2564 (Solver)
+	Solver time = 00:02:34 h
+	Parameter update time   = 00:00:16 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.20435 
+	eps2 = 4.0855 
+	eps3 = 3.85849 
+	eps4 = 3.94289 
+	eps5 = 3.93359 
+	eps6 = 4.30617 
+	eps7 = 4.45537 
+	eps8 = 3.76615 
+	eps9 = 4.05412 
+	eps10 = 4.21478 
+	eps11 = 4.23162 
+	eps12 = 4.29148 
+	eps13 = 3.6697 
+	eps14 = 4.27008 
+	eps15 = 4.09282 
+
+(Corresponding to run ID: 253)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.0371 (Solver)
+	Solver time = 00:02:36 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.49725 
+	eps2 = 4.0855 
+	eps3 = 3.85849 
+	eps4 = 3.44097 
+	eps5 = 3.93359 
+	eps6 = 4.30617 
+	eps7 = 4.45537 
+	eps8 = 3.76615 
+	eps9 = 4.05412 
+	eps10 = 4.21478 
+	eps11 = 4.23162 
+	eps12 = 3.88947 
+	eps13 = 4.14906 
+	eps14 = 4.27008 
+	eps15 = 3.71572 
+
+(Corresponding to run ID: 254)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 99.6728 (Solver)
+	Solver time = 00:02:37 h
+	Parameter update time   = 00:00:20 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.14383 
+	eps2 = 4.08319 
+	eps3 = 3.83722 
+	eps4 = 3.92784 
+	eps5 = 3.94337 
+	eps6 = 4.3055 
+	eps7 = 4.45241 
+	eps8 = 3.7667 
+	eps9 = 4.10505 
+	eps10 = 4.25348 
+	eps11 = 4.236 
+	eps12 = 4.31358 
+	eps13 = 3.71631 
+	eps14 = 4.28117 
+	eps15 = 4.09465 
+
+(Corresponding to run ID: 255)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.2515 (Solver)
+	Solver time = 00:02:30 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.13003 
+	eps2 = 4.08966 
+	eps3 = 3.81466 
+	eps4 = 3.91561 
+	eps5 = 3.92473 
+	eps6 = 4.30984 
+	eps7 = 4.46639 
+	eps8 = 3.79343 
+	eps9 = 3.96433 
+	eps10 = 4.26128 
+	eps11 = 4.25251 
+	eps12 = 4.28156 
+	eps13 = 3.77698 
+	eps14 = 4.29924 
+	eps15 = 4.09458 
+
+(Corresponding to run ID: 256)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.2036 (Solver)
+	Solver time = 00:02:26 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.11678 
+	eps2 = 4.08558 
+	eps3 = 3.8481 
+	eps4 = 3.93881 
+	eps5 = 3.96002 
+	eps6 = 4.30746 
+	eps7 = 4.48694 
+	eps8 = 3.74338 
+	eps9 = 4.04794 
+	eps10 = 4.19332 
+	eps11 = 4.26057 
+	eps12 = 4.28313 
+	eps13 = 3.73032 
+	eps14 = 4.26605 
+	eps15 = 4.09458 
+
+(Corresponding to run ID: 257)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.2033 (Solver)
+	Solver time = 00:02:30 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.15975 
+	eps2 = 4.0791 
+	eps3 = 3.82689 
+	eps4 = 3.92519 
+	eps5 = 3.95057 
+	eps6 = 4.30752 
+	eps7 = 4.48522 
+	eps8 = 3.77877 
+	eps9 = 3.97896 
+	eps10 = 4.21051 
+	eps11 = 4.27946 
+	eps12 = 4.28255 
+	eps13 = 3.73455 
+	eps14 = 4.2795 
+	eps15 = 4.09456 
+
+(Corresponding to run ID: 258)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.1735 (Solver)
+	Solver time = 00:02:41 h
+	Parameter update time   = 00:00:11 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.15975 
+	eps2 = 4.0791 
+	eps3 = 4.18648 
+	eps4 = 3.92519 
+	eps5 = 3.60017 
+	eps6 = 4.30752 
+	eps7 = 4.48522 
+	eps8 = 4.23824 
+	eps9 = 3.97896 
+	eps10 = 4.12017 
+	eps11 = 3.91115 
+	eps12 = 4.28255 
+	eps13 = 3.73455 
+	eps14 = 4.00866 
+	eps15 = 4.09456 
+
+(Corresponding to run ID: 259)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 95.7452 (Solver)
+	Solver time = 00:02:38 h
+	Parameter update time   = 00:00:22 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	eps1 = 4.11909 
+	eps2 = 4.08405 
+	eps3 = 3.82797 
+	eps4 = 3.92074 
+	eps5 = 3.93649 
+	eps6 = 4.30821 
+	eps7 = 4.45446 
+	eps8 = 3.76067 
+	eps9 = 4.04094 
+	eps10 = 4.21757 
+	eps11 = 4.23621 
+	eps12 = 4.28098 
+	eps13 = 3.76505 
+	eps14 = 4.27103 
+	eps15 = 4.09455 
+
+(Corresponding to run ID: 260)
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 91.3881 (Solver)
+	Solver time = 00:02:33 h
+	Parameter update time   = 00:00:12 h
+
+________________________________________________________________________
+
+Maximum number of iterations reached. Genetic Optimization completed.
+
+
+
+========================================================================
+
+Recovered data for best parameters:
+
+	eps1 = 4.24395 
+	eps2 = 4.07923 
+	eps3 = 3.87656 
+	eps4 = 3.99163 
+	eps5 = 3.9635 
+	eps6 = 4.30417 
+	eps7 = 4.4487 
+	eps8 = 3.7334 
+	eps9 = 4.16447 
+	eps10 = 4.2145 
+	eps11 = 4.21499 
+	eps12 = 4.34019 
+	eps13 = 3.59381 
+	eps14 = 4.26979 
+	eps15 = 4.09488 
+
+(Corresponding to run ID: 163)
+
+
+Result data recovered from project backup.
+
+	First goal function value  = 98.7159 (Solver)
+	Best goal function value   = 90.5842 (Solver)
+	Last goal function value   = 90.5842 (Solver)
+
+________________________________________________________________________
+
+	Total solver time           = 09:56:27 h (248 solver runs)
+	Total data recovery time    = 00:00:46 h (1 loaded)
+	Total backup project time   = 00:02:47 h (11 backups)
+	Total parameter update time = 01:08:38 h
+	Total optimizer time        = 11:09:40 h (249 evaluations)
+
+
+________________________________________________________________________
+
+Optimization successful. Best parameter set is stored.
+
