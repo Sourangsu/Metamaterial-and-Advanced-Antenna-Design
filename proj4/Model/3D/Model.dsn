@@ -1,0 +1,49 @@
+*** File Version: 14.00
+
+Number of ports: 1
+Portnames: 1
+Modenumbers: 1
+Portlabels: ""
+StaticSources:
+ThermalSources:
+FloquetPortNames:
+FloquetPortModes:
+Terminals:
+TerminalToReferenceTable:
+Number of frequency-points: 1
+Fmin: 0.000000e+000
+Fmax: 3.000000e+009
+Fscale: 1.000000e+009
+
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 1
+Modenumber: 1
+Modetype: 6
+Zline: 6.292530e-001 0.000000e+000
+Fdev: 1.500000e+009
+Fmin: 0.000000e+000
+Fmax: 3.000000e+009
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+
+
+*** newmonitor
+monname: "farfield (f=f)"
+nmonfrequencies: 1
+monfrequencies: "2.14" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+

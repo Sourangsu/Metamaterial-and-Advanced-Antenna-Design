@@ -1,0 +1,132 @@
+*** Warning ***
+
+This software is licensed for educational purposes only.
+
+--------------------------------------------------------------------------------
+
+Solver started at: 05:27 PM Thursday, 07. December 2017
+
+  Module:  Time Domain: S-Parameter (Win 64)
+  Version: 2016.7 Release from 2016-11-11 (change 480100)
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+======================================================================
+ Solver cycle: 1
+======================================================================
+
+Stimulation at discrete port 1 
+
+
+--------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+--------------------------------------------------------------------------------
+Boundary conditions: 
+
+  YZsymmetry: none
+  XZsymmetry: none
+  XYsymmetry: none
+
+  Xmin: expanded open, 4 Layer, depth 24.0702 mm
+  Xmax: expanded open, 4 Layer, depth 24.0702 mm
+
+  Ymin: expanded open, 4 Layer, depth 24.0702 mm
+  Ymax: expanded open, 4 Layer, depth 24.0702 mm
+
+  Zmin: expanded open, 4 Layer, depth 24.0702 mm
+  Zmax: expanded open, 4 Layer, depth 24.228 mm
+
+  PML-Type: Convolution PML
+
+--------------------------------------------------------------------------------
+Frequency settings: 
+
+  Fmin:         0
+  Fmax:         3
+  Nfsteps(lin): 1001
+
+--------------------------------------------------------------------------------
+Port: 1
+
+  Discrete element, reference impedance = 0.629253 ohms
+
+--------------------------------------------------------------------------------
+Field update statistics:
+
+  Number of components in total: 	2624397
+  Number of TST elements:		48
+  Number of lossy metal components:	25958
+  Number of disp. elements:		21596
+
+Subcycling state:      Automatically deactivated
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Steady state energy criterion met, solver finished successfully.
+
+--------------------------------------------------------------------------------
+Frequency domain results normalized to default signal.
+
+--------------------------------------------------------------------------------
+
+  ----------------------------------------------------------------------------
+                      Peak memory used (kB)         Free physical memory (kB) 
+                                                    At begin     Minimum      
+  ----------------------------------------------------------------------------
+  CAD preparation     19360                         12377856     12377856     
+  Matrices calc.      464976                        12359356     11966332     
+  Solver run total    135324                        11689508     11542416     
+  ----------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Solver Statistics:
+
+  Hardware:
+     Computer name:                 	ECELAB23 
+
+     Number of CPU threads:             4
+     Hardware info:                  	Hardware acceleration not activated
+
+  Number of mesh cells:             	428640
+  Excitation duration:              	1.18484958e+000 ns 
+  Calculation time for excitation:  	26     	s
+  Number of calculated pulse widths:	11.3067 
+  Steady state accuracy limit:      	-80	dB 
+  Simulated number of time steps:   	38040  
+  Maximum number of time steps:     	67287  
+  Time step width:
+     without subcycles:             	3.52175823e-004 ns
+     used:                          	3.52175823e-004 ns
+
+  Reloading matrices:               	1      	s
+  Solver setup time:                	5      	s
+  Solver loop time:                 	284    	s
+  Solver post processing time:      	2      	s
+                                    	------------
+  Total solver time:                	292    	s  ( = 0 h, 4 m, 52 s )
+
+--------------------------------------------------------------------------------
+
+  Adaptive port meshing time:       	0      	s
+  Total solver time (all cycles):   	292    	s  ( = 0 h, 4 m, 52 s )
+                                    	------------
+  Total simulation time:            	292    	s  ( = 0 h, 4 m, 52 s )
+
+--------------------------------------------------------------------------------
+Solver finished at: 05:32 PM Thursday, 07. December 2017
+
+
+--------------------------------------------------------------------------------
+Creating parametric 1D results for Run ID 2
+
+--------------------------------------------------------------------------------
